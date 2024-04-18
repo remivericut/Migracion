@@ -1,0 +1,1101 @@
+!DOCTYPE html
+html lang=es-ES class=no-js
+head
+meta charset=UTF-8 
+meta http-equiv=X-UA-Compatible content=IE=edge
+meta name=viewport content=width=device-width, initial-scale=1.0
+title DIRECCIÓN GENERAL DE MIGRACIÓNtitle
+link rel=preload href=httpsmigracion.gob.dowp-contentthemesdgmcssmain.css as=style 
+link rel=preload href=cdn.jsdelivr.netnpmremixiconfontsremixicon.min.css as=style 
+link rel=stylesheet href=cdn.jsdelivr.netnpmremixiconfontsremixicon.min.css 
+link href=www.google-analytics.com rel=dns-prefetch
+meta name=description content=Dirección General de Migración de la República Dominicana
+meta name=robots content=max-image-previewlarge 
+link rel=alternate href=httpsmigracion.gob.do hreflang=es 
+link rel=alternate href=httpsmigracion.gob.doen hreflang=en 
+link rel=dns-prefetch href=www.googletagmanager.com 
+link rel=dns-prefetch href=pagead2.googlesyndication.com 
+script type=textjavascript
+ ![CDATA[ 
+window._wpemojiSettings = {baseUrlhttpss.w.orgimagescoreemoji15.0.372x72,ext.png,svgUrlhttpss.w.orgimagescoreemoji15.0.3svg,svgExt.svg,source{concatemojihttpsmigracion.gob.dowp-includesjswp-emoji-release.min.jsver=42a495e2b063a76e85e000dc31aa1f22}};
+! This file is auto-generated 
+!function(i,n){var o,s,e;function c(e){try{var t={supportTestse,timestamp(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){caseflagreturn n(e,ud83cudff3ufe0fu200du26a7ufe0f,ud83cudff3ufe0fu200bu26a7ufe0f)!1!n(e,ud83cuddfaud83cuddf3,ud83cuddfau200bud83cuddf3)&&!n(e,ud83cudff4udb40udc67udb40udc62udb40udc65udb40udc6eudb40udc67udb40udc7f,ud83cudff4u200budb40udc67u200budb40udc62u200budb40udc65u200budb40udc6eu200budb40udc67u200budb40udc7f);caseemojireturn!n(e,ud83dudc26u200du2b1b,ud83dudc26u200bu2b1b)}return!1}function f(e,t,n){var r=undefined!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScopenew OffscreenCanvas(300,150)i.createElement(canvas),a=r.getContext(2d,{willReadFrequently!0}),o=(a.textBaseline=top,a.font=600 32px Arial,{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement(script);t.src=e,t.defer=!0,i.head.appendChild(t)}undefined!=typeof Promise&&(o=wpEmojiSettingsSupports,s=[flag,emoji],n.supports={everything!0,everythingExceptFlag!0},e=new Promise(function(e){i.addEventListener(DOMContentLoaded,e,{once!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if(object==typeof e&&number==typeof e.timestamp&&(new Date).valueOf()e.timestamp+604800&&object==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if(undefined!=typeof Worker&&undefined!=typeof OffscreenCanvas&&undefined!=typeof URL&&URL.createObjectURL&&undefined!=typeof Blob)try{var e=postMessage(+f.toString()+(+[JSON.stringify(s),u.toString(),p.toString()].join(,)+));,r=new Blob([e],{typetextjavascript}),a=new Worker(URL.createObjectURL(r),{namewpTestEmojiSupports});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],flag!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything(n.readyCallback(),(e=n.source{}).concatemojit(e.concatemoji)e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+ ]] 
+script
+style id=wp-emoji-styles-inline-css type=textcss
+
+	img.wp-smiley, img.emoji {
+		display inline !important;
+		border none !important;
+		box-shadow none !important;
+		height 1em !important;
+		width 1em !important;
+		margin 0 0.07em !important;
+		vertical-align -0.1em !important;
+		background none !important;
+		padding 0 !important;
+	}
+style
+link rel=stylesheet id=wp-block-library-css href=httpsmigracion.gob.dowp-includescssdistblock-librarystyle.min.cssver=42a495e2b063a76e85e000dc31aa1f22 media=all 
+style id=classic-theme-styles-inline-css type=textcss
+! This file is auto-generated 
+.wp-block-button__link{color#fff;background-color#32373c;border-radius9999px;box-shadownone;text-decorationnone;paddingcalc(.667em + 2px) calc(1.333em + 2px);font-size1.125em}.wp-block-file__button{background#32373c;color#fff;text-decorationnone}
+style
+style id=global-styles-inline-css type=textcss
+body{--wp--preset--color--black #000000;--wp--preset--color--cyan-bluish-gray #abb8c3;--wp--preset--color--white #ffffff;--wp--preset--color--pale-pink #f78da7;--wp--preset--color--vivid-red #cf2e2e;--wp--preset--color--luminous-vivid-orange #ff6900;--wp--preset--color--luminous-vivid-amber #fcb900;--wp--preset--color--light-green-cyan #7bdcb5;--wp--preset--color--vivid-green-cyan #00d084;--wp--preset--color--pale-cyan-blue #8ed1fc;--wp--preset--color--vivid-cyan-blue #0693e3;--wp--preset--color--vivid-purple #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small 13px;--wp--preset--font-size--medium 20px;--wp--preset--font-size--large 36px;--wp--preset--font-size--x-large 42px;--wp--preset--spacing--20 0.44rem;--wp--preset--spacing--30 0.67rem;--wp--preset--spacing--40 1rem;--wp--preset--spacing--50 1.5rem;--wp--preset--spacing--60 2.25rem;--wp--preset--spacing--70 3.38rem;--wp--preset--spacing--80 5.06rem;--wp--preset--shadow--natural 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp 6px 6px 0px rgba(0, 0, 0, 1);}where(.is-layout-flex){gap 0.5em;}where(.is-layout-grid){gap 0.5em;}body .is-layout-flow  .alignleft{float left;margin-inline-start 0;margin-inline-end 2em;}body .is-layout-flow  .alignright{float right;margin-inline-start 2em;margin-inline-end 0;}body .is-layout-flow  .aligncenter{margin-left auto !important;margin-right auto !important;}body .is-layout-constrained  .alignleft{float left;margin-inline-start 0;margin-inline-end 2em;}body .is-layout-constrained  .alignright{float right;margin-inline-start 2em;margin-inline-end 0;}body .is-layout-constrained  .aligncenter{margin-left auto !important;margin-right auto !important;}body .is-layout-constrained  where(not(.alignleft)not(.alignright)not(.alignfull)){max-width var(--wp--style--global--content-size);margin-left auto !important;margin-right auto !important;}body .is-layout-constrained  .alignwide{max-width var(--wp--style--global--wide-size);}body .is-layout-flex{display flex;}body .is-layout-flex{flex-wrap wrap;align-items center;}body .is-layout-flex  {margin 0;}body .is-layout-grid{display grid;}body .is-layout-grid  {margin 0;}where(.wp-block-columns.is-layout-flex){gap 2em;}where(.wp-block-columns.is-layout-grid){gap 2em;}where(.wp-block-post-template.is-layout-flex){gap 1.25em;}where(.wp-block-post-template.is-layout-grid){gap 1.25em;}.has-black-color{color var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color var(--wp--preset--color--white) !important;}.has-pale-pink-color{color var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation awhere(not(.wp-element-button)){color inherit;}
+where(.wp-block-post-template.is-layout-flex){gap 1.25em;}where(.wp-block-post-template.is-layout-grid){gap 1.25em;}
+where(.wp-block-columns.is-layout-flex){gap 2em;}where(.wp-block-columns.is-layout-grid){gap 2em;}
+.wp-block-pullquote{font-size 1.5em;line-height 1.6;}
+style
+link rel=stylesheet id=af-fontawesome-css href=httpsmigracion.gob.dowp-contentpluginsasgaros-forumlibsfontawesomecssall.min.cssver=2.9.0 media=all 
+link rel=stylesheet id=af-fontawesome-compat-v4-css href=httpsmigracion.gob.dowp-contentpluginsasgaros-forumlibsfontawesomecssv4-shims.min.cssver=2.9.0 media=all 
+link rel=stylesheet id=af-widgets-css href=httpsmigracion.gob.dowp-contentpluginsasgaros-forumskinwidgets.cssver=2.9.0 media=all 
+link rel=stylesheet id=kk-star-ratings-css href=httpsmigracion.gob.dowp-contentpluginskk-star-ratingssrccorepubliccsskk-star-ratings.min.cssver=5.4.7 media=all 
+link rel=stylesheet id=bootstrap-css href=httpsmigracion.gob.dowp-contentthemesdgmcssbootstrap.min.cssver=1.0 media=all 
+link rel=stylesheet id=conadiscss-css href=httpsmigracion.gob.dowp-contentthemesdgmstyle.cssver=1.0 media=all 
+link rel=stylesheet id=owlcss-css href=httpsmigracion.gob.dowp-contentthemesdgmcssowl.carousel.min.cssver=all media=all 
+link rel=stylesheet type=textcss href=httpsmigracion.gob.dowp-contentpluginssmart-slider-3PublicSmartSlider3ApplicationFrontendAssetsdistsmartslider.min.cssver=6f970dc2 media=all
+style id= media=all cyrillic-ext 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+  unicode-range U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+ cyrillic 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
+  unicode-range U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+ greek-ext 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
+  unicode-range U+1F00-1FFF;
+}
+ greek 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
+  unicode-range U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+ vietnamese 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
+  unicode-range U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+ latin-ext 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+  unicode-range U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+ latin 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 300;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+  unicode-range U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+ cyrillic-ext 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+  unicode-range U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+ cyrillic 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
+  unicode-range U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+ greek-ext 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
+  unicode-range U+1F00-1FFF;
+}
+ greek 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
+  unicode-range U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+ vietnamese 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
+  unicode-range U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+ latin-ext 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+  unicode-range U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+ latin 
+@font-face {
+  font-family 'Roboto';
+  font-style normal;
+  font-weight 400;
+  font-display swap;
+  src url(fonts.gstatic.comsrobotov30KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+  unicode-range U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+style
+style data-related=n2-ss-6div#n2-ss-6 .n2-ss-slider-1{displaygrid;positionrelative;}div#n2-ss-6 .n2-ss-slider-2{displaygrid;positionrelative;overflowhidden;padding0px 0px 0px 0px;border0px solid RGBA(62,62,62,1);border-radius0px;background-clippadding-box;background-repeatrepeat;background-position50% 50%;background-sizecover;background-attachmentscroll;z-index1;}div#n2-ss-6not(.n2-ss-loaded) .n2-ss-slider-2{background-imagenone !important;}div#n2-ss-6 .n2-ss-slider-3{displaygrid;grid-template-areas'cover';positionrelative;overflowhidden;z-index10;}div#n2-ss-6 .n2-ss-slider-3  {grid-areacover;}div#n2-ss-6 .n2-ss-slide-backgrounds,div#n2-ss-6 .n2-ss-slider-3  .n2-ss-divider{positionrelative;}div#n2-ss-6 .n2-ss-slide-backgrounds{z-index10;}div#n2-ss-6 .n2-ss-slide-backgrounds  {overflowhidden;}div#n2-ss-6 .n2-ss-slide-background{transformtranslateX(-100000px);}div#n2-ss-6 .n2-ss-slider-4{place-selfcenter;positionrelative;width100%;height100%;z-index20;displaygrid;grid-template-areas'slide';}div#n2-ss-6 .n2-ss-slider-4  {grid-areaslide;}div#n2-ss-6.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{heightauto;}div#n2-ss-6 .n2-ss-slide{displaygrid;place-itemscenter;grid-auto-columns100%;positionrelative;z-index20;-webkit-backface-visibilityhidden;transformtranslateX(-100000px);}div#n2-ss-6 .n2-ss-slide{perspective1500px;}div#n2-ss-6 .n2-ss-slide-active{z-index21;}.n2-ss-background-animation{positionabsolute;top0;left0;width100%;height100%;z-index3;}div#n2-ss-6 .n2-ss-button-container,div#n2-ss-6 .n2-ss-button-container a{displayblock;}div#n2-ss-6 .n2-ss-button-container--non-full-width,div#n2-ss-6 .n2-ss-button-container--non-full-width a{displayinline-block;}div#n2-ss-6 .n2-ss-button-container.n2-ss-nowrap{white-spacenowrap;}div#n2-ss-6 .n2-ss-button-container a div{displayinline;font-sizeinherit;text-decorationinherit;colorinherit;line-heightinherit;font-familyinherit;font-weightinherit;}div#n2-ss-6 .n2-ss-button-container a  div{displayinline-flex;align-itemscenter;vertical-aligntop;}div#n2-ss-6 .n2-ss-button-container span{font-size100%;vertical-alignbaseline;}div#n2-ss-6 .n2-ss-button-container a[data-iconplacement=left] span{margin-right0.3em;}div#n2-ss-6 .n2-ss-button-container a[data-iconplacement=right] span{margin-left0.3em;}div#n2-ss-6 .nextend-arrow{cursorpointer;overflowhidden;line-height0 !important;z-index18;-webkit-user-selectnone;}div#n2-ss-6 .nextend-arrow img{positionrelative;displayblock;}div#n2-ss-6 .nextend-arrow img.n2-arrow-hover-img{displaynone;}div#n2-ss-6 .nextend-arrowFOCUS img.n2-arrow-hover-img,div#n2-ss-6 .nextend-arrowHOVER img.n2-arrow-hover-img{displayinline;}div#n2-ss-6 .nextend-arrowFOCUS img.n2-arrow-normal-img,div#n2-ss-6 .nextend-arrowHOVER img.n2-arrow-normal-img{displaynone;}div#n2-ss-6 .nextend-arrow-animated{overflowhidden;}div#n2-ss-6 .nextend-arrow-animated  div{positionrelative;}div#n2-ss-6 .nextend-arrow-animated .n2-active{positionabsolute;}div#n2-ss-6 .nextend-arrow-animated-fade{transitionbackground 0.3s, opacity 0.4s;}div#n2-ss-6 .nextend-arrow-animated-horizontal  div{transitionall 0.4s;transformnone;}div#n2-ss-6 .nextend-arrow-animated-horizontal .n2-active{top0;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left100%;}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right100%;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontalHOVER  div,div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-horizontalFOCUS  div{transformtranslateX(-100%);}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontalHOVER  div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-horizontalFOCUS  div{transformtranslateX(100%);}div#n2-ss-6 .nextend-arrow-animated-vertical  div{transitionall 0.4s;transformnone;}div#n2-ss-6 .nextend-arrow-animated-vertical .n2-active{left0;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top100%;}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom100%;}div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-verticalHOVER  div,div#n2-ss-6 .nextend-arrow-previous.nextend-arrow-animated-verticalFOCUS  div{transformtranslateY(-100%);}div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-verticalHOVER  div,div#n2-ss-6 .nextend-arrow-next.nextend-arrow-animated-verticalFOCUS  div{transformtranslateY(100%);}div#n2-ss-6 .n2-style-6679a19c901d61fb802720533bbad114-heading{background RGBA(255,255,255,0);opacity1;padding0px 0px 0px 0px ;box-shadow none;border 0px solid RGBA(0,0,0,1);border-radius0px;}div#n2-ss-6 .n2-font-27a7c18b3c44282d9244c968cb383836-link a{font-family 'Roboto','Arial';color #ffffff;font-size87.5%;text-shadow none;line-height 1.5;font-weight normal;font-style normal;text-decoration none;text-align center;letter-spacing normal;word-spacing normal;text-transform uppercase;font-weight 500;}div#n2-ss-6 .n2-style-c1211307f86f7bfc4b76b5925245a80c-heading{background RGBA(238,42,36,1);opacity1;padding5px 10px 5px 10px ;box-shadow none;border 0px solid RGBA(0,0,0,1);border-radius5px;transitionease all .3s;}div#n2-ss-6 .n2-style-c1211307f86f7bfc4b76b5925245a80c-headingHover, div#n2-ss-6 .n2-style-c1211307f86f7bfc4b76b5925245a80c-headingACTIVE, div#n2-ss-6 .n2-style-c1211307f86f7bfc4b76b5925245a80c-headingFOCUS{background RGBA(233,13,6,1);box-shadow none;}div#n2-ss-6 .n2-style-c53ceb44d905da4f474e64dfe515f9cd-heading{background RGBA(238,42,36,1);opacity1;padding5px 10px 5px 10px ;box-shadow none;border 0px solid RGBA(0,0,0,1);border-radius5px;transitionease all .3s;}div#n2-ss-6 .n2-style-c53ceb44d905da4f474e64dfe515f9cd-headingHover, div#n2-ss-6 .n2-style-c53ceb44d905da4f474e64dfe515f9cd-headingACTIVE, div#n2-ss-6 .n2-style-c53ceb44d905da4f474e64dfe515f9cd-headingFOCUS{background RGBA(233,13,6,1);box-shadow none;}div#n2-ss-6 .n-uc-qCBkpH0AR2fm{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-9wAz0o8FEUNd{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-UBDKU6LH4ahF-inner{padding10px 10px 10px 10px;justify-contentcenter}div#n2-ss-6 .n-uc-UBDKU6LH4ahF{align-selfcenter;}div#n2-ss-6 .n-uc-mX4W9PTBXJrE{--ssfont-scale1.5}div#n2-ss-6 .n-uc-BkQ5eZF9uS7f{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-nfsa3X0lz5nt-inner{padding10px 10px 10px 10px;justify-contentcenter}div#n2-ss-6 .n-uc-nfsa3X0lz5nt{align-selfcenter;}div#n2-ss-6 .n-uc-MPLONGq1lcpY{--ssfont-scale1.5}div#n2-ss-6 .n-uc-fVIEPIacRoe4{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-oZSlu0DVerzC{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-kuU2UrpAJjxC-inner{padding10px 10px 10px 10px;justify-contentcenter}div#n2-ss-6 .n-uc-kuU2UrpAJjxC{align-selfcenter;}div#n2-ss-6 .n-uc-NUp7NBmN8jYA{--ssfont-scale1.5}div#n2-ss-6 .n-uc-amUGYFcHTTtQ{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-NzZcvJ0aBxrp-inner{padding10px 10px 10px 10px;justify-contentcenter}div#n2-ss-6 .n-uc-NzZcvJ0aBxrp{align-selfcenter;}div#n2-ss-6 .n-uc-eB1eefgW7cg8{--ssfont-scale1.5}div#n2-ss-6 .n-uc-7cPKUP2ky6SY{padding10px 10px 10px 10px}div#n2-ss-6 .n-uc-Tlz1TxkudaVp-inner{padding10px 10px 10px 10px;justify-contentcenter}div#n2-ss-6 .n-uc-Tlz1TxkudaVp{align-selfcenter;}div#n2-ss-6 .n-uc-b2l8KHigLd94{--ssfont-scale1.5}div#n2-ss-6 .n-uc-PxM47DhQxKpl{padding10px 10px 0px 10px}div#n2-ss-6 .n-uc-u7fhkSQxkh6T-inner{padding10px 10px 10px 10px;justify-contentcenter}div#n2-ss-6 .n-uc-u7fhkSQxkh6T{align-selfcenter;}div#n2-ss-6 .n-uc-BuooIaQvRjHq{--ssfont-scale1.5}div#n2-ss-6 .nextend-arrow img{width 32px}@media (min-width 1200px){div#n2-ss-6 [data-hide-desktopportrait=1]{display none !important;}}@media (orientation landscape) and (max-width 1199px) and (min-width 901px),(orientation portrait) and (max-width 1199px) and (min-width 701px){div#n2-ss-6 .n-uc-mX4W9PTBXJrE{--ssfont-scale0.6}div#n2-ss-6 .n-uc-MPLONGq1lcpY{--ssfont-scale0.7}div#n2-ss-6 .n-uc-NUp7NBmN8jYA{--ssfont-scale0.7}div#n2-ss-6 .n-uc-eB1eefgW7cg8{--ssfont-scale0.7}div#n2-ss-6 .n-uc-b2l8KHigLd94{--ssfont-scale0.7}div#n2-ss-6 .n-uc-BuooIaQvRjHq{--ssfont-scale0.7}div#n2-ss-6 [data-hide-tabletportrait=1]{display none !important;}}@media (orientation landscape) and (max-width 900px),(orientation portrait) and (max-width 700px){div#n2-ss-6 .n-uc-mX4W9PTBXJrE{--ssfont-scale0.4}div#n2-ss-6 .n-uc-MPLONGq1lcpY{--ssfont-scale0.4}div#n2-ss-6 .n-uc-NUp7NBmN8jYA{--ssfont-scale0.4}div#n2-ss-6 .n-uc-eB1eefgW7cg8{--ssfont-scale0.4}div#n2-ss-6 .n-uc-b2l8KHigLd94{--ssfont-scale0.4}div#n2-ss-6 .n-uc-BuooIaQvRjHq{--ssfont-scale0.4}div#n2-ss-6 [data-hide-mobileportrait=1]{display none !important;}div#n2-ss-6 .nextend-arrow img{width 16px}}style
+script type=textjavascript src=httpsmigracion.gob.dowp-includesjsjqueryjquery.min.jsver=3.7.1 id=jquery-core-jsscript
+script type=textjavascript src=httpsmigracion.gob.dowp-includesjsjqueryjquery-migrate.min.jsver=3.4.1 id=jquery-migrate-jsscript
+script type=textjavascript src=httpsmigracion.gob.dowp-contentthemesdgmjslibconditionizr-4.3.0.min.jsver=4.3.0 id=conditionizr-jsscript
+script type=textjavascript src=httpsmigracion.gob.dowp-contentthemesdgmjslibmodernizr-2.7.1.min.jsver=2.7.1 id=modernizr-jsscript
+script type=textjavascript src=httpsmigracion.gob.dowp-contentthemesdgmjslibbootstrap.bundle.min.jsver=1.0.0 id=bootstrapjs-jsscript
+script type=textjavascript src=httpsmigracion.gob.dowp-contentthemesdgmjslibowl.carousel.min.jsver=42a495e2b063a76e85e000dc31aa1f22 id=owl-jsscript
+script type=textjavascript src=httpsmigracion.gob.dowp-contentthemesdgmjsscripts.jsver=42a495e2b063a76e85e000dc31aa1f22 id=scriptconadis-jsscript
+
+
+script type=textjavascript src=httpswww.googletagmanager.comgtagjsid=GT-579Q8TH id=google_gtagjs-js asyncscript
+script type=textjavascript id=google_gtagjs-js-after
+ ![CDATA[ 
+window.dataLayer = window.dataLayer  [];function gtag(){dataLayer.push(arguments);}
+gtag(set,linker,{domains[migracion.gob.do]});
+gtag(js, new Date());
+gtag(set, developer_id.dZTNiMT, true);
+gtag(config, GT-579Q8TH);
+ ]] 
+script
+
+link rel=httpsapi.w.org href=httpsmigracion.gob.dowp-json link rel=alternate type=applicationjson href=httpsmigracion.gob.dowp-jsonwpv2pages2 link rel=alternate type=applicationjson+oembed href=httpsmigracion.gob.dowp-jsonoembed1.0embedurl=https%3A%2F%2Fmigracion.gob.do%2F 
+link rel=alternate type=textxml+oembed href=httpsmigracion.gob.dowp-jsonoembed1.0embedurl=https%3A%2F%2Fmigracion.gob.do%2F&#038;format=xml 
+meta name=generator content=Site Kit by Google 1.124.0 meta name=google-site-verification content=u_7ob5XeVr0BiNaMTVqQTQ4uHc-PTQmwd-ccPqr-cz8
+
+meta name=google-adsense-platform-account content=ca-host-pub-2644536267352236
+meta name=google-adsense-platform-domain content=sitekit.withgoogle.com
+
+
+script type=textjavascript async=async src=httpspagead2.googlesyndication.compageadjsadsbygoogle.jsclient=ca-pub-2312451818231537&amp;host=ca-host-pub-2644536267352236 crossorigin=anonymousscript
+
+
+script type=textjavascript
+ ![CDATA[ 
+
+			( function( w, d, s, l, i ) {
+				w[l] = w[l]  [];
+				w[l].push( {'gtm.start' new Date().getTime(), event 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer'  '&l=' + l  '';
+				j.async = true;
+				j.src = 'httpswww.googletagmanager.comgtm.jsid=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-PSBCMCW' );
+			
+ ]] 
+script
+
+link rel=icon type=imagesvg+xml href=httpsmigracion.gob.dowp-contentthemesdgmimgfavicon.svg
+script
+		 conditionizr.com
+		 configure environment tests
+		conditionizr.config({
+			assets 'httpsmigracion.gob.dowp-contentthemesdgm',
+			tests {}
+		});
+	script
+script(function(){this._N2=this._N2{_r[],_d[],rfunction(){this._r.push(arguments)},dfunction(){this._d.push(arguments)}}}).call(window);scriptscript src=httpsmigracion.gob.dowp-contentpluginssmart-slider-3PublicSmartSlider3ApplicationFrontendAssetsdistn2.min.jsver=6f970dc2 defer asyncscript
+script src=httpsmigracion.gob.dowp-contentpluginssmart-slider-3PublicSmartSlider3ApplicationFrontendAssetsdistsmartslider-frontend.min.jsver=6f970dc2 defer asyncscript
+script src=httpsmigracion.gob.dowp-contentpluginssmart-slider-3PublicSmartSlider3SliderSliderTypeSimpleAssetsdistss-simple.min.jsver=6f970dc2 defer asyncscript
+script src=httpsmigracion.gob.dowp-contentpluginssmart-slider-3PublicSmartSlider3WidgetArrowArrowImageAssetsdistw-arrow-image.min.jsver=6f970dc2 defer asyncscript
+script_N2.r('documentReady',function(){_N2.r([documentReady,smartslider-frontend,SmartSliderWidgetArrowImage,ss-simple],function(){new _N2.SmartSliderSimple('n2-ss-6',{adminfalse,background.video.mobile1,loadingTime2000,alias{id0,smoothScroll0,slideSwitch0,scroll1},alignnormal,isDelayed0,responsive{mediaQueries{allfalse,desktopportrait[(min-width 1200px)],tabletportrait[(orientation landscape) and (max-width 1199px) and (min-width 901px),(orientation portrait) and (max-width 1199px) and (min-width 701px)],mobileportrait[(orientation landscape) and (max-width 900px),(orientation portrait) and (max-width 700px)]},base{slideOuterWidth1200,slideOuterHeight400,sliderWidth1200,sliderHeight400,slideWidth1200,slideHeight400},hideOn{desktopLandscapefalse,desktopPortraitfalse,tabletLandscapefalse,tabletPortraitfalse,mobileLandscapefalse,mobilePortraitfalse},onResizeEnabledtrue,typeauto,sliderHeightBasedOnreal,focusUser1,focusEdgeauto,breakpoints[{devicetabletPortrait,typemax-screen-width,portraitWidth1199,landscapeWidth1199},{devicemobilePortrait,typemax-screen-width,portraitWidth700,landscapeWidth900}],enabledDevices{desktopLandscape0,desktopPortrait1,tabletLandscape0,tabletPortrait1,mobileLandscape0,mobilePortrait1},sizes{desktopPortrait{width1200,height400,max3000,min1200},tabletPortrait{width701,height233,customHeightfalse,max1199,min701},mobilePortrait{width320,height106,customHeightfalse,max900,min320}},overflowHiddenPage0,focus{offsetTop#wpadminbar,offsetBottom}},controls{mousewheel0,touchhorizontal,keyboard1,blockCarouselInteraction1},playWhenVisible1,playWhenVisibleAt0.5,lazyLoad0,lazyLoadNeighbor0,blockrightclick0,maintainSession0,autoplay{enabled1,start1,duration8000,autoplayLoop1,allowReStart0,pause{click1,mouse0,mediaStarted1},resume{click0,mouse0,mediaEnded1,slidechanged0},interval1,intervalModifierloop,intervalSlidecurrent},perspective1500,layerMode{playOnce0,playFirstLayer1,modeskippable,inAnimationmainInEnd},bgAnimations0,mainanimation{typehorizontal,duration600,delay0,easeeaseOutQuad,shiftedBackgroundAnimation0},carousel1,initCallbacksfunction(){new _N2.SmartSliderWidgetArrowImage(this)}})})});scripthead
+body class=home page-template page-template-template-main page-template-template-main-php page page-id-2 sample-page
+div class=header__gob
+div class=container header__gob--container
+span class=fi fi-do flag__dospan
+p class=m-0 header__gob--textEsta es una web oficial del Gobierno de la República Dominicanap
+div class=d-flex align-items-center h-100 header__gob--btn
+p class=m-0 header__gob--open-contentAsí es como puedes saberlop
+i class=ri-arrow-down-s-line header_gob_iconi
+div
+div
+div
+div class=container header__gob--content
+div class=header__gob--info
+div class=header__gob--information-element
+picture class=information__element-iconimg src=httpsmigracion.gob.dowp-contentthemesdgmimgiconsbank-fill.svg alt=Government Iconpicture
+div class=information__element--text-container
+p class=information__element-titleLos sitios web oficiales utilizan .gob.do, .gov.do o .mil.dop
+p class=information__element-textUn sitio .gob.do, .gov.do o .mil.do significa que pertenece a una organización oficial del Estado dominicanop
+div
+div
+div class=header__gob--information-element
+picture class=information__element-iconimg src=httpsmigracion.gob.dowp-contentthemesdgmimgiconslock-fill.svg alt=Government Iconpicture
+div class=information__element--text-container
+p class=information__element-titleLos sitios web oficiales seguros con .gob.do, .gov.do o .mil.do utilizan HTTPSp
+p class=information__element-textUn candado (🔒) o https significa que estás conectado a un sitio seguro dentro de .gob.do, .gov.do o .mil.do. Comparte información confidencial solo en los sitios seguros de .gob.do, .gov.do o .mil.dop
+div
+div
+div
+div
+header
+div class=container
+div class=d-flex justify-content-between h-100
+div class=logo d-flex align-items-center justify-content-sm-start
+a href=httpsmigracion.gob.do# title=Migración
+svg xmlns=httpwww.w3.org2000svg xmlspace=preserve id=Capa_1 x=0 y=0 style=enable-backgroundnew 0 0 764.6 240.7 class=img-responsive version=1.1 alt=logo migracion viewBox=26.9 30.8 712.1 184.6style.st0{fill#003876}.st2{fill#e4262f}styleg id=Grupo_4178_00000140721885979892709210000000366292546193700244_ transform=translate(6)g id=Grupo_3989_00000122691251676333599910000013551052264130974891_g id=gob-icon_00000148629066489123590360000004330846465242268597_path id=Trazado_1_00000121990041969501357120000000618465100348940728_ d=M119.6 40.8v-2h4.2v-2.7H122v1.7h-2.5v-4.4h.4v-2.6h-1.8v2.6h.4v4.5H116v-1.7h-1.7v2.7h4.2v2c-7.9.3-14 6.9-13.9 14.7h28.6c.3-7.9-5.8-14.4-13.6-14.8z class=st0pathpath id=Trazado_2_00000116948208819311734940000014289858683514761358_ d=M101 60.5h36.1c.3 0 .6-.3.6-.6v-2.2c0-.3-.2-.6-.6-.6H101c-.3 0-.6.3-.6.6v2.2c0 .4.3.6.6.6z class=st0pathpath id=Trazado_3_00000141426831113865189460000003982704348353931711_ d=M101 87.8h36.1c.3 0 .6-.3.6-.6V85c0-.3-.2-.6-.6-.6H101c-.3 0-.6.3-.6.6v2.2c0 .4.3.6.6.6z class=st0pathpath id=Trazado_4_00000176016819631885328420000012752065269860364178_ d=M107.5 62.1c-.6 0-1 .5-1.1 1v18.8c0 .6.5 1 1 1.1h4.4c.6 0 1-.5 1-1V63.2c0-.6-.5-1-1-1.1h-4.3z class=st0pathpath id=Trazado_5_00000049189105069188342150000001317742003068297887_ d=M116.8 62.1c-.6 0-1 .5-1.1 1v18.8c0 .6.5 1 1 1.1h4.4c.6 0 1-.5 1.1-1V63.2c0-.6-.5-1-1-1.1h-4.4z class=st0pathpath id=Trazado_6_00000141449340443211031980000005201231110820830625_ d=M126 62.1c-.6 0-1 .5-1.1 1v18.8c0 .6.5 1 1 1.1h4.4c.6 0 1-.5 1.1-1V63.2c0-.6-.5-1-1-1.1H126z class=st0pathpath id=Trazado_7_00000080178738551125113650000007415310938444038067_ d=M44.5 156.5c3.2-14.9 9.5-29 18.5-41.4 7.3-9.8 16.3-18.1 26.6-24.6C73.3 96.6 59 106.9 48 120.4c-13.4 17-20.9 37.9-21.2 59.5h13.9c.6-7.9 1.9-15.7 3.8-23.4z class=st0pathpath id=Trazado_8_00000093864645658281682830000013637763995408032145_ d=M175.3 115.1c9 12.4 15.3 26.5 18.5 41.4 1.9 7.7 3.2 15.5 3.7 23.4h13.9c-.3-21.6-7.8-42.6-21.2-59.5-10.9-13.5-25.3-23.8-41.6-29.9 10.4 6.5 19.4 14.9 26.7 24.6z class=st0pathpath id=Trazado_9_00000073689286611925864750000009752748090358683788_ d=M102.4 93.9c-7.9 3.9-15.3 8.9-21.7 14.9-27 25.2-30.2 59.9-30.7 71.1h24c-.7-20.7 3.5-41.3 12.2-60.1 4.3-9.2 9.8-17.9 16.2-25.9z class=st0pathpath id=Trazado_10_00000163771418897163009950000016133345094408496781_ d=M187.8 179.9c-.5-11.2-3.7-45.9-30.7-71.1-6.5-6-13.8-11-21.7-14.9 6.4 8 11.8 16.7 16.1 26 8.7 18.8 12.9 39.4 12.2 60.1l24.1-.1z class=st0pathpath id=Trazado_11_00000089550239648775198540000002586793536907399559_ d=M114.6 179.9v-86c-8.7 9.4-15.8 20.1-21 31.7-7.6 17-11.1 35.6-10.2 54.3h31.2z class=st0pathpath id=Trazado_12_00000152950157139472712860000010853804687684003718_ d=M123.6 93.9v86h31.2c.9-18.6-2.6-37.2-10.2-54.3-5.2-11.6-12.3-22.3-21-31.7z class=st0pathpath id=Trazado_13_00000005234400992174065000000012256756210056419501_ d=M197.7 186.8v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9h-23.2v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9h-30.4v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9h-30v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9H50.4v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9H20.9v3.5h196v-3.5h-19.2z class=st0pathpath id=Trazado_14_00000017497791440073382130000011972452200386878354_ d=M49.2 203.1c.7 0 1.2-.5 1.2-1.2v-9.3H40.3v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_15_00000037684539115584140760000005421270546175471020_ d=M82.6 203.1c.7 0 1.2-.5 1.2-1.2v-9.3H73.7v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_16_00000151519898207344593290000004554969575777547937_ d=M122.7 203.1c.7 0 1.2-.5 1.2-1.2v-9.3h-10.1v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_17_00000137834357703422001800000010301565302162538660_ d=M163.2 203.1c.7 0 1.2-.5 1.2-1.2v-9.3h-10.2v9.3c0 .7.5 1.2 1.2 1.2h7.8z class=st0pathpath id=Trazado_18_00000085252910569389608740000015905465938312083619_ d=M196.5 203.1c.7 0 1.2-.5 1.2-1.2v-9.3h-10.1v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_19_00000087372556451028968620000012756337594671789750_ d=M215.5 206H22.2c-.7 0-1.3.6-1.3 1.3v5c0 .7.6 1.3 1.3 1.3h193.3c.7 0 1.3-.6 1.3-1.3v-5c0-.7-.6-1.3-1.3-1.3z class=st0pathgggg id=Línea_209_00000065794662106454408720000017095317527546021774_ transform=translate(61.953 27.395)path id=Rectángulo_2693_00000077286188000854457220000017551047981310800528_ d=M192.1 104h484.4v5.5H192.1z style=fill#dc3f32pathgpath d=M320.4 165c-1.8 0-3.2.1-4.3.4-1.1.2-1.8.6-2.4 1-.5.4-.8.9-1 1.5-.1.6-.2 1.2-.2 1.8l.9 35.7c0 4.1 2.5 6.2 7.5 6.2v2.3h-23.2v-2.3c4.8 0 7.3-1.9 7.3-5.7l-.6-36-17.6 44h-2.2l-18.8-43.3-.3 34.1c-.1 4.6 2.7 6.8 8.2 6.8v2.3H254v-2.3c5 0 7.6-2.5 7.9-7.4l.6-34.5c0-.6 0-1.2-.1-1.8-.1-.6-.4-1.1-.9-1.5-.5-.4-1.3-.7-2.4-1-1.1-.2-2.7-.4-4.8-.4v-2.3h16.9l16.6 39.2 15.9-39.2h16.6v2.4zM353.9 165c-5 0-7.5 2.3-7.5 6.8v34.5c0 3.5 2.6 5.3 7.9 5.3v2.3h-23.8v-2.3c5.2 0 7.8-1.8 7.8-5.3v-34.5c0-4.5-2.7-6.8-8.1-6.8v-2.3H354v2.3zM409.2 179.7c-.6-2.3-1.5-4.4-2.6-6.2-1.1-1.9-2.4-3.5-3.9-4.8-1.5-1.4-3.3-2.4-5.2-3.1-2-.7-4.1-1.1-6.5-1.1-3.4 0-6.2.7-8.5 2s-4.2 3.1-5.6 5.3c-1.4 2.2-2.5 4.7-3.1 7.5-.6 2.8-1 5.8-1 8.8 0 3.2.4 6.2 1.1 9.1.7 2.9 1.9 5.4 3.4 7.6 1.5 2.2 3.4 3.9 5.7 5.2 2.3 1.3 4.9 1.9 8 1.9 1.8 0 3.5-.2 5.1-.6 1.6-.4 3-1 4.2-1.9 1.2-.9 2.1-2 2.8-3.4s1-3.1 1-5.1c0-5.3-2.8-8-8.4-8v-2.3h23.5v2.3c-4.8 0-7.3 2-7.3 5.9v15.9h-2.2c-1.2-.9-2.4-1.6-3.4-2.3-1-.7-1.9-1.3-2.6-1.8-1.9 1.4-4.1 2.5-6.7 3.3-2.6.8-5.3 1.2-8 1.2-3.8 0-7.2-.7-10.4-2-3.1-1.3-5.9-3.2-8.1-5.5-2.3-2.3-4-5.1-5.3-8.2-1.3-3.2-1.9-6.6-1.9-10.2 0-3.5.7-7 2-10.3 1.3-3.3 3.1-6.3 5.5-8.9 2.3-2.6 5.1-4.7 8.4-6.2 3.2-1.6 6.8-2.3 10.8-2.3 2.3 0 4.6.4 6.7 1.2 2.1.8 4.3 1.7 6.5 2.7 1.9-1.8 3.8-2.9 6-3.3 1.9 4.4 2.8 10.3 2.8 17.7h-2.8zM476.5 207.1c0 .6-.2 1.4-.5 2.3-.3.9-.8 1.7-1.4 2.5-.6.8-1.4 1.5-2.3 2-.9.6-1.9.8-3.1.8-1.7 0-3.1-.1-4.3-.4-1.2-.3-2.2-.7-3.1-1.2-.9-.5-1.6-1.2-2.1-2.1-.6-.9-1.1-1.9-1.5-3.1-.7-1.9-1.4-4-2.1-6.3-.6-2.2-1.4-4.3-2.3-6.2-.9-1.9-2-3.5-3.3-4.8-1.3-1.3-2.9-1.9-4.9-1.9h-2.5c-1.5 0-2.3.3-2.6.9v16.8c0 3.3 2.5 5 7.5 5v2.3h-23.1v-2.3c4.8 0 7.2-1.7 7.2-5V170c0-3.3-2.6-4.9-7.8-4.9v-2.4h10.3c1.8 0 3.3 0 4.6-.1 1.3 0 2.5-.1 3.7-.1 1.2 0 2.4-.1 3.8-.1 1.3 0 3-.1 4.9-.1 2.4 0 4.6.3 6.7 1 2.1.7 3.9 1.6 5.4 2.7 1.5 1.1 2.7 2.5 3.6 4 .9 1.6 1.3 3.2 1.3 5 0 1.8-.4 3.4-1.1 4.8-.7 1.4-1.7 2.6-3 3.6s-2.8 1.9-4.6 2.6c-1.8.7-3.7 1.3-5.8 1.7v.3c2.7 1.2 4.9 2.6 6.6 4.4 1.7 1.8 2.9 3.5 3.4 5.1.4 1.1.7 2.3 1.2 3.7.4 1.4.9 2.8 1.5 4.1.6 1.3 1.3 2.4 2.1 3.3.8.9 1.7 1.3 2.8 1.3 1.3 0 2.2-1.2 2.9-3.5l1.9.7zm-32.7-41.5c-2.1 0-3.1 1.5-3.1 4.4v14.8c.2.8.9 1.2 1.9 1.2h4.3c1.6 0 3.2-.1 4.7-.3s2.9-.7 4.1-1.4c1.2-.7 2.2-1.7 2.9-3.1.7-1.4 1.1-3.2 1.1-5.5 0-1.9-.4-3.6-1.1-4.8-.7-1.3-1.7-2.3-2.9-3.1-1.2-.8-2.5-1.3-3.9-1.6-1.4-.3-2.8-.4-4.2-.4h-3.8zM524.4 208.3c.9 1.2 1.5 1.8 1.9 2 .2.2 1.8.6 4.7 1.2v2.3h-22.6v-2.4c.9-.1 1.7-.2 2.6-.3s1.6-.3 2.3-.4c.7-.2 1.2-.4 1.7-.6.4-.2.6-.5.6-.9 0-.2-.1-.5-.2-.9-.1-.3-.3-.8-.5-1.3l-3.7-9.4c-.5-1.4-2.2-2-5-2H494c-2.2 0-3.4.7-3.8 2l-2.8 8c-.2.3-.3 1-.3 2 0 2.4 2.4 3.5 7.2 3.5v2.7h-18.5v-2.7c3-.2 5.3-2.1 6.9-5.6l19.7-44.2 2.5.9 19.5 46.1zM494 188.6c-.6 1.2-.9 2-.9 2.6 0 .8 1 1.2 3.1 1.2h10.4c1.6 0 2.5-.3 2.5-.9 0-.2-.1-.5-.3-.9-.2-.4-.4-1-.7-1.7l-6.9-16.5-7.2 16.2zM574.9 179.7c-1.3-5-3.5-8.7-6.6-11.2-3.1-2.5-6.8-3.7-10.9-3.7-3 0-5.6.6-7.7 1.8-2.1 1.2-3.9 2.8-5.3 4.8s-2.4 4.3-3 6.8c-.6 2.5-1 5.1-1 7.8 0 3.6.3 7 1 10.2.7 3.2 1.8 5.9 3.2 8.2 1.5 2.3 3.4 4.1 5.7 5.4 2.3 1.3 5.2 2 8.5 2 2.1 0 3.9-.2 5.6-.6 1.7-.4 3.2-1.1 4.6-2.1 1.4-1 2.7-2.4 3.9-4.1 1.2-1.7 2.3-3.9 3.4-6.5l2.5.9c-.5 2.7-1.5 5-2.8 7-1.4 2-3 3.7-5 5-1.9 1.3-4.1 2.3-6.5 3-2.4.7-5 1-7.6 1-3.9 0-7.4-.7-10.6-2s-5.9-3.1-8.1-5.5c-2.2-2.3-4-5.1-5.2-8.2-1.2-3.2-1.8-6.6-1.8-10.3 0-4 .7-7.7 2-11 1.4-3.4 3.2-6.3 5.5-8.7 2.3-2.4 5-4.3 8.2-5.7 3.1-1.4 6.4-2 9.9-2 4.2 0 8.1 1.2 11.9 3.6 1.9-1.8 3.8-2.9 6-3.3.2.2.4.8.7 1.8.3 1 .6 2.3.9 3.9.3 1.6.6 3.4.8 5.5.2 2.1.3 4.2.3 6.5h-2.5zM610.2 165c-5 0-7.5 2.3-7.5 6.8v34.5c0 3.5 2.6 5.3 7.9 5.3v2.3h-23.8v-2.3c5.2 0 7.8-1.8 7.8-5.3v-34.5c0-4.5-2.7-6.8-8.1-6.8v-2.3h23.8v2.3zM646.1 161.7c4 0 7.6.7 11 2 3.4 1.3 6.3 3.2 8.7 5.5 2.4 2.3 4.4 5.1 5.7 8.3 1.4 3.2 2.1 6.7 2.1 10.5 0 3.3-.7 6.6-2 9.8-1.3 3.3-3.2 6.1-5.6 8.7-2.4 2.5-5.3 4.6-8.7 6.2-3.4 1.6-7.2 2.4-11.3 2.4-3.9 0-7.5-.7-10.8-2.1-3.3-1.4-6.1-3.3-8.5-5.7-2.4-2.4-4.2-5.2-5.6-8.4-1.3-3.2-2-6.6-2-10.3 0-3.4.6-6.7 1.9-9.9 1.3-3.2 3.1-6.1 5.4-8.6 2.3-2.5 5.2-4.5 8.5-6 3.4-1.6 7.1-2.4 11.2-2.4zm-.6 2.7c-3.1 0-5.8.6-8 1.9-2.2 1.3-3.9 3-5.2 5.2-1.3 2.2-2.3 4.7-2.9 7.5-.6 2.8-.9 5.8-.9 8.9 0 3.4.4 6.6 1.1 9.5.7 2.9 1.8 5.5 3.3 7.7 1.5 2.2 3.4 3.9 5.6 5.1 2.3 1.2 5 1.9 8.2 1.9 3 0 5.7-.6 7.9-1.8 2.2-1.2 4-2.9 5.5-5 1.4-2.1 2.5-4.6 3.2-7.5.7-2.9 1-6 1-9.3 0-3.1-.3-6.1-1-9-.7-2.9-1.8-5.5-3.2-7.7-1.5-2.3-3.4-4.1-5.8-5.4-2.5-1.3-5.4-2-8.8-2zm-6.7-5.8c1.7-1 3.2-2.1 4.8-3.3 1.5-1.2 3-2.4 4.4-3.5.5-.4 1.1-.9 1.6-1.3.6-.4 1.2-.7 1.9-.7 1.1 0 1.8.3 2.1.9.3.6.5 1.1.5 1.7 0 .7-.5 1.4-1.5 2.1-1 .7-2.3 1.3-3.8 1.9-1.5.6-3.1 1.2-4.8 1.8-1.7.6-3.1 1.2-4.4 1.7l-.8-1.3zM738.9 165c-5.1 0-7.6 2.8-7.6 8.5v40.7l-2.2.6-36.4-43.6v31.2c0 6.1 2.8 9.2 8.5 9.2v2.3h-19.8v-2.3c4.6 0 7-3.1 7-9.2v-34.2c0-2.1-2.7-3.2-8.2-3.2v-2.3h15.1l32.3 38.6v-27.7c0-5.7-2.8-8.5-8.4-8.5v-2.3H739v2.2z class=st2pathpath d=M280.5 45.2c-.8-1.7-1.9-2.9-3.4-3.8-1.5-.9-3.2-1.4-5.2-1.4s-3.8.5-5.4 1.4c-1.6.9-2.8 2.2-3.8 3.9-.9 1.7-1.3 3.7-1.3 5.9s.4 4.2 1.3 5.9c.9 1.7 2.2 3 3.8 3.9 1.6.9 3.4 1.3 5.4 1.3 2.8 0 5.1-.8 6.9-2.5 1.8-1.7 2.9-3.9 3.1-6.7h-11.4v-3h15.3V53c-.2 2.3-1 4.5-2.2 6.5-1.3 1.9-2.9 3.5-4.9 4.6-2 1.1-4.3 1.7-6.8 1.7-2.6 0-5.1-.6-7.2-1.8-2.2-1.3-3.9-3-5.2-5.2-1.3-2.2-1.9-4.7-1.9-7.5s.6-5.3 1.9-7.5c1.3-2.2 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.2-1.9 3 0 5.7.8 8 2.2 2.3 1.5 4 3.6 5.1 6.3h-4.5zm23.2 20.5c-2.6 0-5.1-.6-7.2-1.8-2.2-1.3-3.9-3-5.2-5.2-1.3-2.2-1.9-4.7-1.9-7.5s.6-5.3 1.9-7.5c1.3-2.2 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.2-1.9 2.7 0 5.1.6 7.3 1.9 2.2 1.2 3.9 2.9 5.2 5.2 1.3 2.2 1.9 4.7 1.9 7.5s-.6 5.3-1.9 7.5c-1.3 2.2-3 3.9-5.2 5.2-2.2 1.2-4.6 1.8-7.3 1.8zm0-3.2c2 0 3.8-.5 5.4-1.4 1.6-.9 2.9-2.2 3.8-4 .9-1.7 1.4-3.7 1.4-6s-.5-4.3-1.4-6c-.9-1.7-2.1-3-3.7-4-1.6-.9-3.4-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.2-3.8 4-.9 1.7-1.3 3.7-1.3 6s.4 4.3 1.3 6c.9 1.7 2.2 3 3.8 4 1.5.9 3.3 1.4 5.3 1.4zm33.5-11.7c1 .2 2 .6 2.8 1.3.9.7 1.6 1.5 2 2.5.5 1 .8 2.1.8 3.2 0 1.4-.4 2.8-1.1 3.9-.7 1.1-1.8 2.1-3.2 2.7-1.4.7-3 1-4.9 1H323V36.9h10.2c1.9 0 3.6.3 4.9 1 1.4.6 2.4 1.5 3.1 2.6.7 1.1 1 2.3 1 3.7 0 1.7-.5 3.1-1.4 4.2-.9 1.1-2.1 1.9-3.6 2.4zm-10.6-1.6h6.3c1.7 0 3.1-.4 4-1.2 1-.8 1.4-1.9 1.4-3.4 0-1.4-.5-2.6-1.4-3.4-1-.8-2.3-1.2-4.1-1.2h-6.2v9.2zm6.6 13.2c1.9 0 3.3-.4 4.3-1.3s1.6-2.1 1.6-3.6c0-1.6-.5-2.8-1.6-3.7-1.1-.9-2.6-1.4-4.4-1.4h-6.5v10.1h6.6zm18.5-25.5v28.5H348V36.9h3.7zm10.1 3.1v9.5h10.4v3.1h-10.4v9.8h11.6v3.1h-15.3V36.9h15.3V40h-11.6zM394 65.4l-6.8-11.7h-4.5v11.7H379V36.9h9.2c2.2 0 4 .4 5.4 1.1 1.5.7 2.6 1.7 3.4 3 .7 1.3 1.1 2.7 1.1 4.3 0 2-.6 3.7-1.7 5.2s-2.8 2.5-5.1 3l7.2 11.9H394zm-11.3-14.6h5.5c2 0 3.5-.5 4.5-1.5s1.5-2.3 1.5-4c0-1.7-.5-3-1.5-3.9-1-.9-2.5-1.4-4.5-1.4h-5.5v10.8zm43.6 14.6h-3.7l-15-22.7v22.7h-3.7V36.9h3.7l15 22.7V36.9h3.7v28.5zm19.3.3c-2.6 0-5.1-.6-7.2-1.8-2.2-1.3-3.9-3-5.2-5.2-1.3-2.2-1.9-4.7-1.9-7.5s.6-5.3 1.9-7.5c1.3-2.2 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.2-1.9 2.7 0 5.1.6 7.3 1.9 2.2 1.2 3.9 2.9 5.2 5.2 1.3 2.2 1.9 4.7 1.9 7.5s-.6 5.3-1.9 7.5c-1.3 2.2-3 3.9-5.2 5.2-2.2 1.2-4.7 1.8-7.3 1.8zm0-3.2c2 0 3.8-.5 5.4-1.4 1.6-.9 2.9-2.2 3.8-4 .9-1.7 1.4-3.7 1.4-6s-.5-4.3-1.4-6c-.9-1.7-2.1-3-3.7-4-1.6-.9-3.4-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.2-3.8 4-.9 1.7-1.3 3.7-1.3 6s.4 4.3 1.3 6c.9 1.7 2.2 3 3.8 4 1.5.9 3.3 1.4 5.3 1.4zm39-25.6c3.1 0 5.8.6 8.1 1.8 2.3 1.1 4 2.8 5.2 4.9 1.2 2.2 1.8 4.7 1.8 7.6 0 2.9-.6 5.5-1.8 7.6-1.2 2.1-2.9 3.8-5.2 4.9-2.3 1.1-4.9 1.7-8.1 1.7h-8.9V36.9h8.9zm0 25.5c3.7 0 6.5-1 8.4-2.9 1.9-2 2.9-4.7 2.9-8.2 0-3.5-1-6.3-2.9-8.3-1.9-2-4.7-3-8.4-3h-5.2v22.4h5.2zM508.3 40v9.5h10.4v3.1h-10.4v9.8h11.6v3.1h-15.3V36.9h15.3V40h-11.6zm31.9 22.4h10v3h-13.7V36.9h3.7v25.5zm30.8-3.3h-12.4l-2.3 6.3h-3.9l10.3-28.3h4.3l10.3 28.3h-3.9l-2.4-6.3zm-1.1-3-5.2-14.4-5.2 14.4h10.4zm-296.8 69-6.9-11.8h-4.5v11.8H258V96.4h9.3c2.2 0 4 .4 5.5 1.1 1.5.7 2.6 1.7 3.4 3 .7 1.3 1.1 2.7 1.1 4.3 0 2-.6 3.7-1.7 5.2s-2.8 2.5-5.1 3l7.2 12.1h-4.6zm-11.4-14.7h5.5c2 0 3.6-.5 4.6-1.5 1-1 1.5-2.4 1.5-4 0-1.7-.5-3-1.5-4-1-.9-2.5-1.4-4.6-1.4h-5.5v10.9zm25.1-11v9.6h10.5v3.1h-10.5v9.9h11.7v3.1H283V96.3h15.5v3.1h-11.7zm36.7 5.4c0 2.4-.8 4.4-2.5 6-1.6 1.6-4.1 2.4-7.5 2.4H308v12h-3.8V96.4h9.3c3.2 0 5.7.8 7.4 2.4 1.7 1.5 2.6 3.5 2.6 6zm-10 5.2c2.1 0 3.6-.5 4.6-1.4 1-.9 1.5-2.2 1.5-3.9 0-3.5-2-5.3-6.1-5.3H308V110h5.5zm18.3-13.6v18.2c0 2.6.6 4.5 1.9 5.7 1.3 1.2 3 1.9 5.2 1.9s3.9-.6 5.2-1.9c1.3-1.2 1.9-3.1 1.9-5.7V96.4h3.8v18.2c0 2.4-.5 4.4-1.4 6.1-1 1.6-2.3 2.8-3.9 3.6-1.6.8-3.5 1.2-5.5 1.2s-3.9-.4-5.5-1.2c-1.6-.8-2.9-2-3.9-3.6-.9-1.7-1.4-3.7-1.4-6.1V96.4h3.6zm11.1-6.3-8.8 4.7V92l8.8-5.2v3.3zm27.5 20.2c1 .2 2 .6 2.8 1.3.9.7 1.6 1.5 2.1 2.6.5 1 .8 2.1.8 3.3 0 1.5-.4 2.8-1.1 4-.7 1.2-1.8 2.1-3.3 2.8-1.4.7-3.1 1-5 1H356V96.4h10.3c2 0 3.6.3 5 1 1.4.6 2.4 1.5 3.1 2.6.7 1.1 1 2.3 1 3.7 0 1.7-.5 3.1-1.4 4.3-.9 1-2.1 1.8-3.6 2.3zm-10.7-1.5h6.3c1.8 0 3.1-.4 4.1-1.2 1-.8 1.4-2 1.4-3.4 0-1.5-.5-2.6-1.4-3.4-1-.8-2.4-1.2-4.2-1.2h-6.2v9.2zm6.7 13.2c1.9 0 3.3-.4 4.4-1.3 1-.9 1.6-2.1 1.6-3.7s-.5-2.8-1.7-3.8c-1.1-.9-2.6-1.4-4.4-1.4h-6.5V122h6.6zm18.7.1h10.1v3.1h-13.8V96.4h3.8v25.7zm17.8-25.7v28.8h-3.8V96.4h3.8zm5 14.3c0-2.8.6-5.3 1.9-7.6 1.3-2.3 3-4 5.2-5.3 2.2-1.3 4.6-1.9 7.3-1.9 3.1 0 5.9.8 8.2 2.3 2.3 1.5 4 3.7 5.1 6.4h-4.5c-.8-1.7-2-3.1-3.5-4-1.5-.9-3.3-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.3-3.8 4-.9 1.7-1.4 3.7-1.4 6s.5 4.3 1.4 6c.9 1.7 2.2 3 3.8 4 1.6.9 3.4 1.4 5.4 1.4 2.1 0 3.9-.5 5.4-1.4 1.5-.9 2.7-2.3 3.5-4h4.5c-1.1 2.8-2.8 4.9-5.1 6.4s-5.1 2.2-8.2 2.2c-2.7 0-5.1-.6-7.3-1.9-2.2-1.3-3.9-3-5.2-5.2-1.3-2.1-1.9-4.6-1.9-7.4zm50.3 8h-12.5l-2.3 6.4h-4l10.4-28.6h4.3l10.4 28.6h-4l-2.3-6.4zm-1.1-3-5.2-14.5-5.2 14.5h10.4zm31.8-19.3c3.1 0 5.8.6 8.1 1.8 2.3 1.2 4.1 2.8 5.3 5 1.2 2.2 1.9 4.7 1.9 7.7 0 2.9-.6 5.5-1.9 7.7-1.2 2.1-3 3.8-5.3 5-2.3 1.1-5 1.7-8.1 1.7h-9V96.4h9zm0 25.6c3.7 0 6.5-1 8.5-2.9 2-2 2.9-4.7 2.9-8.3 0-3.6-1-6.4-3-8.4s-4.8-3-8.5-3h-5.2V122h5.3zm33.3 3.4c-2.7 0-5.1-.6-7.3-1.9-2.2-1.3-3.9-3-5.2-5.2-1.3-2.3-1.9-4.8-1.9-7.6s.6-5.3 1.9-7.6c1.3-2.3 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.3-1.9s5.1.6 7.3 1.9c2.2 1.2 3.9 3 5.2 5.2 1.3 2.2 1.9 4.8 1.9 7.6s-.6 5.4-1.9 7.6c-1.3 2.2-3 4-5.2 5.2-2.2 1.3-4.6 1.9-7.3 1.9zm0-3.2c2 0 3.8-.5 5.4-1.4 1.6-.9 2.9-2.3 3.8-4 .9-1.7 1.4-3.7 1.4-6s-.5-4.3-1.4-6c-.9-1.7-2.2-3.1-3.8-4-1.6-.9-3.4-1.4-5.4-1.4-2 0-3.9.5-5.4 1.4-1.6.9-2.9 2.3-3.8 4-.9 1.7-1.4 3.7-1.4 6s.5 4.3 1.4 6c.9 1.7 2.2 3.1 3.8 4 1.6.9 3.4 1.4 5.4 1.4zm48.6-25.6v28.6H567v-21.3l-9.5 21.3h-2.6l-9.5-21.3v21.3h-3.8V96.6h4l10.6 23.6 10.6-23.6h4zm10.1-.2v28.8h-3.8V96.4h3.8zm29 28.7h-3.8L591 102.2v22.9h-3.8V96.3h3.8l15.1 22.9V96.3h3.8v28.8zm10.2-28.7v28.8h-3.8V96.4h3.8zm5 14.3c0-2.8.6-5.3 1.9-7.6 1.3-2.3 3-4 5.2-5.3 2.2-1.3 4.6-1.9 7.3-1.9 3.1 0 5.9.8 8.2 2.3 2.3 1.5 4 3.7 5.1 6.4h-4.5c-.8-1.7-2-3.1-3.5-4-1.5-.9-3.3-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.3-3.8 4-.9 1.7-1.4 3.7-1.4 6s.5 4.3 1.4 6c.9 1.7 2.2 3 3.8 4 1.6.9 3.4 1.4 5.4 1.4 2.1 0 3.9-.5 5.4-1.4 1.5-.9 2.7-2.3 3.5-4h4.5c-1.1 2.8-2.8 4.9-5.1 6.4s-5.1 2.2-8.2 2.2c-2.7 0-5.1-.6-7.3-1.9-2.2-1.3-3.9-3-5.2-5.2-1.3-2.1-1.9-4.6-1.9-7.4zm50.3 8h-12.5l-2.3 6.4h-4L667 96.5h4.3l10.4 28.6h-4l-2.3-6.4zm-1.1-3-5.2-14.5-5.2 14.5h10.4zm34.5 9.4H705l-15.1-22.9v22.9h-3.8V96.3h3.8l15.1 22.9V96.3h3.8v28.8zm23.4-6.4h-12.5l-2.3 6.4h-4l10.4-28.6h4.3l10.4 28.6h-4l-2.3-6.4zm-1.1-3-5.2-14.5-5.2 14.5h10.4z class=st0pathsvg
+a
+div
+div class=d-flex align-items-center
+div class=eletop float-right
+div class=search
+div class=elements-container
+div class=offcanvas-backdropdiv
+form class=search-form method=get action=httpsmigracion.gob.do role=search
+div class=input-la input-group
+input class=search-input form-control margin_right type=search aria-label=¿Qué quieres buscar required name=s autocomplete=off placeholder=¿Qué quieres buscar
+div class=input-group-btn
+button class=search-submit type=submit role=button aria-label=Searchi class=ri-search-line aria-hidden=trueibutton
+div
+div
+form
+div class=portals-menu
+button type=button class=portals-menu-button title=Menú de los Enlaces de Interés
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconsgrid-fill-blue.svg alt=Portals button width=100% height=100%
+button
+div class=portals-container hidden
+div class=portals-link-container
+span class=portals-link-textEnlaces de interésspan
+button type=button class=portals-btn-close title=Cerrar
+i class=ri-close-circle-line portal-button-closei
+button
+div
+div class=portals-link-content id=portals-scrollbar
+div class=portal-content
+div class=portal-content-container
+div class=portal-content-menu
+button type=button class=portal-content-btn
+span class=portals-content-textPortalesspan
+i class=ri-arrow-down-s-line portal-content-icon rotatei
+button
+div
+div class=portal-content-list
+ul class=portal-content-ul
+li class=portal-content-li
+a class=portal-content-a href=311.gob.do target=_blank
+div class=portal-content-div
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconssistema-311.svg alt=Portal 311
+div
+p translate=noSistema 3-1-1p
+a
+li
+li class=portal-content-li
+a class=portal-content-a href=911.gob.do target=_blank
+div class=portal-content-div
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconssistema-911.svg alt=Portal 911
+div
+p translate=no9-1-1p
+a
+li
+li class=portal-content-li
+a class=portal-content-a href=saip.gob.do target=_blank
+div class=portal-content-div
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconssaip-logo-square.svg alt=Portal Único de Solicitud de Acceso a la Información Pública
+div
+p translate=noSAIPp
+a
+li
+li class=portal-content-li
+a class=portal-content-a href=www.gob.do target=_blank
+div class=portal-content-div
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconsdominicana-gob.svg alt=Portal Del Gobierno Dominicano
+div
+p translate=noGobierno dominicanop
+a
+li
+li class=portal-content-li
+a class=portal-content-a href=datos.gob.do target=_blank
+div class=portal-content-div
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconscupula.svg alt=Portal Datos Abiertos
+div
+p translate=noDatos abiertosp
+a
+li
+li class=portal-content-li
+a class=portal-content-a href=observatorioserviciospublicos.gob.do target=_blank
+div class=portal-content-div
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconsobservatorio-map.svg alt=Portal Observatorio Servicios Publicos
+div
+p translate=noObservatorio (MAP)p
+a
+li
+ul
+div
+div
+div
+div
+div
+div
+div class=lang-selector
+div class=selected-lang
+span class=fi fi-dospan
+i class=ri-arrow-down-s-line selected-lang-iconi
+div
+ul class=languages-list hidden
+a href= hreflang=es-ES lang=es-ES
+li class=language-set
+span class=fi fi-dospan
+span class=language-text translate=noesspan
+li
+a
+a href=en hreflang=en-US lang=en-US
+li class=language-set
+span class=fi fi-usspan
+span class=language-text translate=nousspan
+li
+a
+ul
+div
+button type=button class=mobile-menu-btn
+i class=ri-menu-filli
+button
+div role=dialog aria-modal=true tabindex=-1 class=offcanvas offcanvas-end show id=mobile-dialog aria-labelledby=mobile-dialog aria-label=Mobile menu
+div class=offcanvas-header
+div class=offcanvas-logo
+svg xmlns=httpwww.w3.org2000svg xmlspace=preserve id=Capa_1 x=0 y=0 style=enable-backgroundnew 0 0 764.6 240.7 class=img-responsive version=1.1 alt=logo migracion viewBox=26.9 30.8 712.1 184.6style.st0{fill#003876}.st2{fill#e4262f}styleg id=Grupo_4178_00000140721885979892709210000000366292546193700244_ transform=translate(6)g id=Grupo_3989_00000122691251676333599910000013551052264130974891_g id=gob-icon_00000148629066489123590360000004330846465242268597_path id=Trazado_1_00000121990041969501357120000000618465100348940728_ d=M119.6 40.8v-2h4.2v-2.7H122v1.7h-2.5v-4.4h.4v-2.6h-1.8v2.6h.4v4.5H116v-1.7h-1.7v2.7h4.2v2c-7.9.3-14 6.9-13.9 14.7h28.6c.3-7.9-5.8-14.4-13.6-14.8z class=st0pathpath id=Trazado_2_00000116948208819311734940000014289858683514761358_ d=M101 60.5h36.1c.3 0 .6-.3.6-.6v-2.2c0-.3-.2-.6-.6-.6H101c-.3 0-.6.3-.6.6v2.2c0 .4.3.6.6.6z class=st0pathpath id=Trazado_3_00000141426831113865189460000003982704348353931711_ d=M101 87.8h36.1c.3 0 .6-.3.6-.6V85c0-.3-.2-.6-.6-.6H101c-.3 0-.6.3-.6.6v2.2c0 .4.3.6.6.6z class=st0pathpath id=Trazado_4_00000176016819631885328420000012752065269860364178_ d=M107.5 62.1c-.6 0-1 .5-1.1 1v18.8c0 .6.5 1 1 1.1h4.4c.6 0 1-.5 1-1V63.2c0-.6-.5-1-1-1.1h-4.3z class=st0pathpath id=Trazado_5_00000049189105069188342150000001317742003068297887_ d=M116.8 62.1c-.6 0-1 .5-1.1 1v18.8c0 .6.5 1 1 1.1h4.4c.6 0 1-.5 1.1-1V63.2c0-.6-.5-1-1-1.1h-4.4z class=st0pathpath id=Trazado_6_00000141449340443211031980000005201231110820830625_ d=M126 62.1c-.6 0-1 .5-1.1 1v18.8c0 .6.5 1 1 1.1h4.4c.6 0 1-.5 1.1-1V63.2c0-.6-.5-1-1-1.1H126z class=st0pathpath id=Trazado_7_00000080178738551125113650000007415310938444038067_ d=M44.5 156.5c3.2-14.9 9.5-29 18.5-41.4 7.3-9.8 16.3-18.1 26.6-24.6C73.3 96.6 59 106.9 48 120.4c-13.4 17-20.9 37.9-21.2 59.5h13.9c.6-7.9 1.9-15.7 3.8-23.4z class=st0pathpath id=Trazado_8_00000093864645658281682830000013637763995408032145_ d=M175.3 115.1c9 12.4 15.3 26.5 18.5 41.4 1.9 7.7 3.2 15.5 3.7 23.4h13.9c-.3-21.6-7.8-42.6-21.2-59.5-10.9-13.5-25.3-23.8-41.6-29.9 10.4 6.5 19.4 14.9 26.7 24.6z class=st0pathpath id=Trazado_9_00000073689286611925864750000009752748090358683788_ d=M102.4 93.9c-7.9 3.9-15.3 8.9-21.7 14.9-27 25.2-30.2 59.9-30.7 71.1h24c-.7-20.7 3.5-41.3 12.2-60.1 4.3-9.2 9.8-17.9 16.2-25.9z class=st0pathpath id=Trazado_10_00000163771418897163009950000016133345094408496781_ d=M187.8 179.9c-.5-11.2-3.7-45.9-30.7-71.1-6.5-6-13.8-11-21.7-14.9 6.4 8 11.8 16.7 16.1 26 8.7 18.8 12.9 39.4 12.2 60.1l24.1-.1z class=st0pathpath id=Trazado_11_00000089550239648775198540000002586793536907399559_ d=M114.6 179.9v-86c-8.7 9.4-15.8 20.1-21 31.7-7.6 17-11.1 35.6-10.2 54.3h31.2z class=st0pathpath id=Trazado_12_00000152950157139472712860000010853804687684003718_ d=M123.6 93.9v86h31.2c.9-18.6-2.6-37.2-10.2-54.3-5.2-11.6-12.3-22.3-21-31.7z class=st0pathpath id=Trazado_13_00000005234400992174065000000012256756210056419501_ d=M197.7 186.8v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9h-23.2v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9h-30.4v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9h-30v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9H50.4v-2.9c0-.6-.5-1.1-1.1-1.1h-7.9c-.6 0-1.1.5-1.1 1.1v2.9H20.9v3.5h196v-3.5h-19.2z class=st0pathpath id=Trazado_14_00000017497791440073382130000011972452200386878354_ d=M49.2 203.1c.7 0 1.2-.5 1.2-1.2v-9.3H40.3v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_15_00000037684539115584140760000005421270546175471020_ d=M82.6 203.1c.7 0 1.2-.5 1.2-1.2v-9.3H73.7v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_16_00000151519898207344593290000004554969575777547937_ d=M122.7 203.1c.7 0 1.2-.5 1.2-1.2v-9.3h-10.1v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_17_00000137834357703422001800000010301565302162538660_ d=M163.2 203.1c.7 0 1.2-.5 1.2-1.2v-9.3h-10.2v9.3c0 .7.5 1.2 1.2 1.2h7.8z class=st0pathpath id=Trazado_18_00000085252910569389608740000015905465938312083619_ d=M196.5 203.1c.7 0 1.2-.5 1.2-1.2v-9.3h-10.1v9.3c0 .7.5 1.2 1.2 1.2h7.7z class=st0pathpath id=Trazado_19_00000087372556451028968620000012756337594671789750_ d=M215.5 206H22.2c-.7 0-1.3.6-1.3 1.3v5c0 .7.6 1.3 1.3 1.3h193.3c.7 0 1.3-.6 1.3-1.3v-5c0-.7-.6-1.3-1.3-1.3z class=st0pathgggg id=Línea_209_00000065794662106454408720000017095317527546021774_ transform=translate(61.953 27.395)path id=Rectángulo_2693_00000077286188000854457220000017551047981310800528_ d=M192.1 104h484.4v5.5H192.1z style=fill#dc3f32pathgpath d=M320.4 165c-1.8 0-3.2.1-4.3.4-1.1.2-1.8.6-2.4 1-.5.4-.8.9-1 1.5-.1.6-.2 1.2-.2 1.8l.9 35.7c0 4.1 2.5 6.2 7.5 6.2v2.3h-23.2v-2.3c4.8 0 7.3-1.9 7.3-5.7l-.6-36-17.6 44h-2.2l-18.8-43.3-.3 34.1c-.1 4.6 2.7 6.8 8.2 6.8v2.3H254v-2.3c5 0 7.6-2.5 7.9-7.4l.6-34.5c0-.6 0-1.2-.1-1.8-.1-.6-.4-1.1-.9-1.5-.5-.4-1.3-.7-2.4-1-1.1-.2-2.7-.4-4.8-.4v-2.3h16.9l16.6 39.2 15.9-39.2h16.6v2.4zM353.9 165c-5 0-7.5 2.3-7.5 6.8v34.5c0 3.5 2.6 5.3 7.9 5.3v2.3h-23.8v-2.3c5.2 0 7.8-1.8 7.8-5.3v-34.5c0-4.5-2.7-6.8-8.1-6.8v-2.3H354v2.3zM409.2 179.7c-.6-2.3-1.5-4.4-2.6-6.2-1.1-1.9-2.4-3.5-3.9-4.8-1.5-1.4-3.3-2.4-5.2-3.1-2-.7-4.1-1.1-6.5-1.1-3.4 0-6.2.7-8.5 2s-4.2 3.1-5.6 5.3c-1.4 2.2-2.5 4.7-3.1 7.5-.6 2.8-1 5.8-1 8.8 0 3.2.4 6.2 1.1 9.1.7 2.9 1.9 5.4 3.4 7.6 1.5 2.2 3.4 3.9 5.7 5.2 2.3 1.3 4.9 1.9 8 1.9 1.8 0 3.5-.2 5.1-.6 1.6-.4 3-1 4.2-1.9 1.2-.9 2.1-2 2.8-3.4s1-3.1 1-5.1c0-5.3-2.8-8-8.4-8v-2.3h23.5v2.3c-4.8 0-7.3 2-7.3 5.9v15.9h-2.2c-1.2-.9-2.4-1.6-3.4-2.3-1-.7-1.9-1.3-2.6-1.8-1.9 1.4-4.1 2.5-6.7 3.3-2.6.8-5.3 1.2-8 1.2-3.8 0-7.2-.7-10.4-2-3.1-1.3-5.9-3.2-8.1-5.5-2.3-2.3-4-5.1-5.3-8.2-1.3-3.2-1.9-6.6-1.9-10.2 0-3.5.7-7 2-10.3 1.3-3.3 3.1-6.3 5.5-8.9 2.3-2.6 5.1-4.7 8.4-6.2 3.2-1.6 6.8-2.3 10.8-2.3 2.3 0 4.6.4 6.7 1.2 2.1.8 4.3 1.7 6.5 2.7 1.9-1.8 3.8-2.9 6-3.3 1.9 4.4 2.8 10.3 2.8 17.7h-2.8zM476.5 207.1c0 .6-.2 1.4-.5 2.3-.3.9-.8 1.7-1.4 2.5-.6.8-1.4 1.5-2.3 2-.9.6-1.9.8-3.1.8-1.7 0-3.1-.1-4.3-.4-1.2-.3-2.2-.7-3.1-1.2-.9-.5-1.6-1.2-2.1-2.1-.6-.9-1.1-1.9-1.5-3.1-.7-1.9-1.4-4-2.1-6.3-.6-2.2-1.4-4.3-2.3-6.2-.9-1.9-2-3.5-3.3-4.8-1.3-1.3-2.9-1.9-4.9-1.9h-2.5c-1.5 0-2.3.3-2.6.9v16.8c0 3.3 2.5 5 7.5 5v2.3h-23.1v-2.3c4.8 0 7.2-1.7 7.2-5V170c0-3.3-2.6-4.9-7.8-4.9v-2.4h10.3c1.8 0 3.3 0 4.6-.1 1.3 0 2.5-.1 3.7-.1 1.2 0 2.4-.1 3.8-.1 1.3 0 3-.1 4.9-.1 2.4 0 4.6.3 6.7 1 2.1.7 3.9 1.6 5.4 2.7 1.5 1.1 2.7 2.5 3.6 4 .9 1.6 1.3 3.2 1.3 5 0 1.8-.4 3.4-1.1 4.8-.7 1.4-1.7 2.6-3 3.6s-2.8 1.9-4.6 2.6c-1.8.7-3.7 1.3-5.8 1.7v.3c2.7 1.2 4.9 2.6 6.6 4.4 1.7 1.8 2.9 3.5 3.4 5.1.4 1.1.7 2.3 1.2 3.7.4 1.4.9 2.8 1.5 4.1.6 1.3 1.3 2.4 2.1 3.3.8.9 1.7 1.3 2.8 1.3 1.3 0 2.2-1.2 2.9-3.5l1.9.7zm-32.7-41.5c-2.1 0-3.1 1.5-3.1 4.4v14.8c.2.8.9 1.2 1.9 1.2h4.3c1.6 0 3.2-.1 4.7-.3s2.9-.7 4.1-1.4c1.2-.7 2.2-1.7 2.9-3.1.7-1.4 1.1-3.2 1.1-5.5 0-1.9-.4-3.6-1.1-4.8-.7-1.3-1.7-2.3-2.9-3.1-1.2-.8-2.5-1.3-3.9-1.6-1.4-.3-2.8-.4-4.2-.4h-3.8zM524.4 208.3c.9 1.2 1.5 1.8 1.9 2 .2.2 1.8.6 4.7 1.2v2.3h-22.6v-2.4c.9-.1 1.7-.2 2.6-.3s1.6-.3 2.3-.4c.7-.2 1.2-.4 1.7-.6.4-.2.6-.5.6-.9 0-.2-.1-.5-.2-.9-.1-.3-.3-.8-.5-1.3l-3.7-9.4c-.5-1.4-2.2-2-5-2H494c-2.2 0-3.4.7-3.8 2l-2.8 8c-.2.3-.3 1-.3 2 0 2.4 2.4 3.5 7.2 3.5v2.7h-18.5v-2.7c3-.2 5.3-2.1 6.9-5.6l19.7-44.2 2.5.9 19.5 46.1zM494 188.6c-.6 1.2-.9 2-.9 2.6 0 .8 1 1.2 3.1 1.2h10.4c1.6 0 2.5-.3 2.5-.9 0-.2-.1-.5-.3-.9-.2-.4-.4-1-.7-1.7l-6.9-16.5-7.2 16.2zM574.9 179.7c-1.3-5-3.5-8.7-6.6-11.2-3.1-2.5-6.8-3.7-10.9-3.7-3 0-5.6.6-7.7 1.8-2.1 1.2-3.9 2.8-5.3 4.8s-2.4 4.3-3 6.8c-.6 2.5-1 5.1-1 7.8 0 3.6.3 7 1 10.2.7 3.2 1.8 5.9 3.2 8.2 1.5 2.3 3.4 4.1 5.7 5.4 2.3 1.3 5.2 2 8.5 2 2.1 0 3.9-.2 5.6-.6 1.7-.4 3.2-1.1 4.6-2.1 1.4-1 2.7-2.4 3.9-4.1 1.2-1.7 2.3-3.9 3.4-6.5l2.5.9c-.5 2.7-1.5 5-2.8 7-1.4 2-3 3.7-5 5-1.9 1.3-4.1 2.3-6.5 3-2.4.7-5 1-7.6 1-3.9 0-7.4-.7-10.6-2s-5.9-3.1-8.1-5.5c-2.2-2.3-4-5.1-5.2-8.2-1.2-3.2-1.8-6.6-1.8-10.3 0-4 .7-7.7 2-11 1.4-3.4 3.2-6.3 5.5-8.7 2.3-2.4 5-4.3 8.2-5.7 3.1-1.4 6.4-2 9.9-2 4.2 0 8.1 1.2 11.9 3.6 1.9-1.8 3.8-2.9 6-3.3.2.2.4.8.7 1.8.3 1 .6 2.3.9 3.9.3 1.6.6 3.4.8 5.5.2 2.1.3 4.2.3 6.5h-2.5zM610.2 165c-5 0-7.5 2.3-7.5 6.8v34.5c0 3.5 2.6 5.3 7.9 5.3v2.3h-23.8v-2.3c5.2 0 7.8-1.8 7.8-5.3v-34.5c0-4.5-2.7-6.8-8.1-6.8v-2.3h23.8v2.3zM646.1 161.7c4 0 7.6.7 11 2 3.4 1.3 6.3 3.2 8.7 5.5 2.4 2.3 4.4 5.1 5.7 8.3 1.4 3.2 2.1 6.7 2.1 10.5 0 3.3-.7 6.6-2 9.8-1.3 3.3-3.2 6.1-5.6 8.7-2.4 2.5-5.3 4.6-8.7 6.2-3.4 1.6-7.2 2.4-11.3 2.4-3.9 0-7.5-.7-10.8-2.1-3.3-1.4-6.1-3.3-8.5-5.7-2.4-2.4-4.2-5.2-5.6-8.4-1.3-3.2-2-6.6-2-10.3 0-3.4.6-6.7 1.9-9.9 1.3-3.2 3.1-6.1 5.4-8.6 2.3-2.5 5.2-4.5 8.5-6 3.4-1.6 7.1-2.4 11.2-2.4zm-.6 2.7c-3.1 0-5.8.6-8 1.9-2.2 1.3-3.9 3-5.2 5.2-1.3 2.2-2.3 4.7-2.9 7.5-.6 2.8-.9 5.8-.9 8.9 0 3.4.4 6.6 1.1 9.5.7 2.9 1.8 5.5 3.3 7.7 1.5 2.2 3.4 3.9 5.6 5.1 2.3 1.2 5 1.9 8.2 1.9 3 0 5.7-.6 7.9-1.8 2.2-1.2 4-2.9 5.5-5 1.4-2.1 2.5-4.6 3.2-7.5.7-2.9 1-6 1-9.3 0-3.1-.3-6.1-1-9-.7-2.9-1.8-5.5-3.2-7.7-1.5-2.3-3.4-4.1-5.8-5.4-2.5-1.3-5.4-2-8.8-2zm-6.7-5.8c1.7-1 3.2-2.1 4.8-3.3 1.5-1.2 3-2.4 4.4-3.5.5-.4 1.1-.9 1.6-1.3.6-.4 1.2-.7 1.9-.7 1.1 0 1.8.3 2.1.9.3.6.5 1.1.5 1.7 0 .7-.5 1.4-1.5 2.1-1 .7-2.3 1.3-3.8 1.9-1.5.6-3.1 1.2-4.8 1.8-1.7.6-3.1 1.2-4.4 1.7l-.8-1.3zM738.9 165c-5.1 0-7.6 2.8-7.6 8.5v40.7l-2.2.6-36.4-43.6v31.2c0 6.1 2.8 9.2 8.5 9.2v2.3h-19.8v-2.3c4.6 0 7-3.1 7-9.2v-34.2c0-2.1-2.7-3.2-8.2-3.2v-2.3h15.1l32.3 38.6v-27.7c0-5.7-2.8-8.5-8.4-8.5v-2.3H739v2.2z class=st2pathpath d=M280.5 45.2c-.8-1.7-1.9-2.9-3.4-3.8-1.5-.9-3.2-1.4-5.2-1.4s-3.8.5-5.4 1.4c-1.6.9-2.8 2.2-3.8 3.9-.9 1.7-1.3 3.7-1.3 5.9s.4 4.2 1.3 5.9c.9 1.7 2.2 3 3.8 3.9 1.6.9 3.4 1.3 5.4 1.3 2.8 0 5.1-.8 6.9-2.5 1.8-1.7 2.9-3.9 3.1-6.7h-11.4v-3h15.3V53c-.2 2.3-1 4.5-2.2 6.5-1.3 1.9-2.9 3.5-4.9 4.6-2 1.1-4.3 1.7-6.8 1.7-2.6 0-5.1-.6-7.2-1.8-2.2-1.3-3.9-3-5.2-5.2-1.3-2.2-1.9-4.7-1.9-7.5s.6-5.3 1.9-7.5c1.3-2.2 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.2-1.9 3 0 5.7.8 8 2.2 2.3 1.5 4 3.6 5.1 6.3h-4.5zm23.2 20.5c-2.6 0-5.1-.6-7.2-1.8-2.2-1.3-3.9-3-5.2-5.2-1.3-2.2-1.9-4.7-1.9-7.5s.6-5.3 1.9-7.5c1.3-2.2 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.2-1.9 2.7 0 5.1.6 7.3 1.9 2.2 1.2 3.9 2.9 5.2 5.2 1.3 2.2 1.9 4.7 1.9 7.5s-.6 5.3-1.9 7.5c-1.3 2.2-3 3.9-5.2 5.2-2.2 1.2-4.6 1.8-7.3 1.8zm0-3.2c2 0 3.8-.5 5.4-1.4 1.6-.9 2.9-2.2 3.8-4 .9-1.7 1.4-3.7 1.4-6s-.5-4.3-1.4-6c-.9-1.7-2.1-3-3.7-4-1.6-.9-3.4-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.2-3.8 4-.9 1.7-1.3 3.7-1.3 6s.4 4.3 1.3 6c.9 1.7 2.2 3 3.8 4 1.5.9 3.3 1.4 5.3 1.4zm33.5-11.7c1 .2 2 .6 2.8 1.3.9.7 1.6 1.5 2 2.5.5 1 .8 2.1.8 3.2 0 1.4-.4 2.8-1.1 3.9-.7 1.1-1.8 2.1-3.2 2.7-1.4.7-3 1-4.9 1H323V36.9h10.2c1.9 0 3.6.3 4.9 1 1.4.6 2.4 1.5 3.1 2.6.7 1.1 1 2.3 1 3.7 0 1.7-.5 3.1-1.4 4.2-.9 1.1-2.1 1.9-3.6 2.4zm-10.6-1.6h6.3c1.7 0 3.1-.4 4-1.2 1-.8 1.4-1.9 1.4-3.4 0-1.4-.5-2.6-1.4-3.4-1-.8-2.3-1.2-4.1-1.2h-6.2v9.2zm6.6 13.2c1.9 0 3.3-.4 4.3-1.3s1.6-2.1 1.6-3.6c0-1.6-.5-2.8-1.6-3.7-1.1-.9-2.6-1.4-4.4-1.4h-6.5v10.1h6.6zm18.5-25.5v28.5H348V36.9h3.7zm10.1 3.1v9.5h10.4v3.1h-10.4v9.8h11.6v3.1h-15.3V36.9h15.3V40h-11.6zM394 65.4l-6.8-11.7h-4.5v11.7H379V36.9h9.2c2.2 0 4 .4 5.4 1.1 1.5.7 2.6 1.7 3.4 3 .7 1.3 1.1 2.7 1.1 4.3 0 2-.6 3.7-1.7 5.2s-2.8 2.5-5.1 3l7.2 11.9H394zm-11.3-14.6h5.5c2 0 3.5-.5 4.5-1.5s1.5-2.3 1.5-4c0-1.7-.5-3-1.5-3.9-1-.9-2.5-1.4-4.5-1.4h-5.5v10.8zm43.6 14.6h-3.7l-15-22.7v22.7h-3.7V36.9h3.7l15 22.7V36.9h3.7v28.5zm19.3.3c-2.6 0-5.1-.6-7.2-1.8-2.2-1.3-3.9-3-5.2-5.2-1.3-2.2-1.9-4.7-1.9-7.5s.6-5.3 1.9-7.5c1.3-2.2 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.2-1.9 2.7 0 5.1.6 7.3 1.9 2.2 1.2 3.9 2.9 5.2 5.2 1.3 2.2 1.9 4.7 1.9 7.5s-.6 5.3-1.9 7.5c-1.3 2.2-3 3.9-5.2 5.2-2.2 1.2-4.7 1.8-7.3 1.8zm0-3.2c2 0 3.8-.5 5.4-1.4 1.6-.9 2.9-2.2 3.8-4 .9-1.7 1.4-3.7 1.4-6s-.5-4.3-1.4-6c-.9-1.7-2.1-3-3.7-4-1.6-.9-3.4-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.2-3.8 4-.9 1.7-1.3 3.7-1.3 6s.4 4.3 1.3 6c.9 1.7 2.2 3 3.8 4 1.5.9 3.3 1.4 5.3 1.4zm39-25.6c3.1 0 5.8.6 8.1 1.8 2.3 1.1 4 2.8 5.2 4.9 1.2 2.2 1.8 4.7 1.8 7.6 0 2.9-.6 5.5-1.8 7.6-1.2 2.1-2.9 3.8-5.2 4.9-2.3 1.1-4.9 1.7-8.1 1.7h-8.9V36.9h8.9zm0 25.5c3.7 0 6.5-1 8.4-2.9 1.9-2 2.9-4.7 2.9-8.2 0-3.5-1-6.3-2.9-8.3-1.9-2-4.7-3-8.4-3h-5.2v22.4h5.2zM508.3 40v9.5h10.4v3.1h-10.4v9.8h11.6v3.1h-15.3V36.9h15.3V40h-11.6zm31.9 22.4h10v3h-13.7V36.9h3.7v25.5zm30.8-3.3h-12.4l-2.3 6.3h-3.9l10.3-28.3h4.3l10.3 28.3h-3.9l-2.4-6.3zm-1.1-3-5.2-14.4-5.2 14.4h10.4zm-296.8 69-6.9-11.8h-4.5v11.8H258V96.4h9.3c2.2 0 4 .4 5.5 1.1 1.5.7 2.6 1.7 3.4 3 .7 1.3 1.1 2.7 1.1 4.3 0 2-.6 3.7-1.7 5.2s-2.8 2.5-5.1 3l7.2 12.1h-4.6zm-11.4-14.7h5.5c2 0 3.6-.5 4.6-1.5 1-1 1.5-2.4 1.5-4 0-1.7-.5-3-1.5-4-1-.9-2.5-1.4-4.6-1.4h-5.5v10.9zm25.1-11v9.6h10.5v3.1h-10.5v9.9h11.7v3.1H283V96.3h15.5v3.1h-11.7zm36.7 5.4c0 2.4-.8 4.4-2.5 6-1.6 1.6-4.1 2.4-7.5 2.4H308v12h-3.8V96.4h9.3c3.2 0 5.7.8 7.4 2.4 1.7 1.5 2.6 3.5 2.6 6zm-10 5.2c2.1 0 3.6-.5 4.6-1.4 1-.9 1.5-2.2 1.5-3.9 0-3.5-2-5.3-6.1-5.3H308V110h5.5zm18.3-13.6v18.2c0 2.6.6 4.5 1.9 5.7 1.3 1.2 3 1.9 5.2 1.9s3.9-.6 5.2-1.9c1.3-1.2 1.9-3.1 1.9-5.7V96.4h3.8v18.2c0 2.4-.5 4.4-1.4 6.1-1 1.6-2.3 2.8-3.9 3.6-1.6.8-3.5 1.2-5.5 1.2s-3.9-.4-5.5-1.2c-1.6-.8-2.9-2-3.9-3.6-.9-1.7-1.4-3.7-1.4-6.1V96.4h3.6zm11.1-6.3-8.8 4.7V92l8.8-5.2v3.3zm27.5 20.2c1 .2 2 .6 2.8 1.3.9.7 1.6 1.5 2.1 2.6.5 1 .8 2.1.8 3.3 0 1.5-.4 2.8-1.1 4-.7 1.2-1.8 2.1-3.3 2.8-1.4.7-3.1 1-5 1H356V96.4h10.3c2 0 3.6.3 5 1 1.4.6 2.4 1.5 3.1 2.6.7 1.1 1 2.3 1 3.7 0 1.7-.5 3.1-1.4 4.3-.9 1-2.1 1.8-3.6 2.3zm-10.7-1.5h6.3c1.8 0 3.1-.4 4.1-1.2 1-.8 1.4-2 1.4-3.4 0-1.5-.5-2.6-1.4-3.4-1-.8-2.4-1.2-4.2-1.2h-6.2v9.2zm6.7 13.2c1.9 0 3.3-.4 4.4-1.3 1-.9 1.6-2.1 1.6-3.7s-.5-2.8-1.7-3.8c-1.1-.9-2.6-1.4-4.4-1.4h-6.5V122h6.6zm18.7.1h10.1v3.1h-13.8V96.4h3.8v25.7zm17.8-25.7v28.8h-3.8V96.4h3.8zm5 14.3c0-2.8.6-5.3 1.9-7.6 1.3-2.3 3-4 5.2-5.3 2.2-1.3 4.6-1.9 7.3-1.9 3.1 0 5.9.8 8.2 2.3 2.3 1.5 4 3.7 5.1 6.4h-4.5c-.8-1.7-2-3.1-3.5-4-1.5-.9-3.3-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.3-3.8 4-.9 1.7-1.4 3.7-1.4 6s.5 4.3 1.4 6c.9 1.7 2.2 3 3.8 4 1.6.9 3.4 1.4 5.4 1.4 2.1 0 3.9-.5 5.4-1.4 1.5-.9 2.7-2.3 3.5-4h4.5c-1.1 2.8-2.8 4.9-5.1 6.4s-5.1 2.2-8.2 2.2c-2.7 0-5.1-.6-7.3-1.9-2.2-1.3-3.9-3-5.2-5.2-1.3-2.1-1.9-4.6-1.9-7.4zm50.3 8h-12.5l-2.3 6.4h-4l10.4-28.6h4.3l10.4 28.6h-4l-2.3-6.4zm-1.1-3-5.2-14.5-5.2 14.5h10.4zm31.8-19.3c3.1 0 5.8.6 8.1 1.8 2.3 1.2 4.1 2.8 5.3 5 1.2 2.2 1.9 4.7 1.9 7.7 0 2.9-.6 5.5-1.9 7.7-1.2 2.1-3 3.8-5.3 5-2.3 1.1-5 1.7-8.1 1.7h-9V96.4h9zm0 25.6c3.7 0 6.5-1 8.5-2.9 2-2 2.9-4.7 2.9-8.3 0-3.6-1-6.4-3-8.4s-4.8-3-8.5-3h-5.2V122h5.3zm33.3 3.4c-2.7 0-5.1-.6-7.3-1.9-2.2-1.3-3.9-3-5.2-5.2-1.3-2.3-1.9-4.8-1.9-7.6s.6-5.3 1.9-7.6c1.3-2.3 3-4 5.2-5.2 2.2-1.3 4.6-1.9 7.3-1.9s5.1.6 7.3 1.9c2.2 1.2 3.9 3 5.2 5.2 1.3 2.2 1.9 4.8 1.9 7.6s-.6 5.4-1.9 7.6c-1.3 2.2-3 4-5.2 5.2-2.2 1.3-4.6 1.9-7.3 1.9zm0-3.2c2 0 3.8-.5 5.4-1.4 1.6-.9 2.9-2.3 3.8-4 .9-1.7 1.4-3.7 1.4-6s-.5-4.3-1.4-6c-.9-1.7-2.2-3.1-3.8-4-1.6-.9-3.4-1.4-5.4-1.4-2 0-3.9.5-5.4 1.4-1.6.9-2.9 2.3-3.8 4-.9 1.7-1.4 3.7-1.4 6s.5 4.3 1.4 6c.9 1.7 2.2 3.1 3.8 4 1.6.9 3.4 1.4 5.4 1.4zm48.6-25.6v28.6H567v-21.3l-9.5 21.3h-2.6l-9.5-21.3v21.3h-3.8V96.6h4l10.6 23.6 10.6-23.6h4zm10.1-.2v28.8h-3.8V96.4h3.8zm29 28.7h-3.8L591 102.2v22.9h-3.8V96.3h3.8l15.1 22.9V96.3h3.8v28.8zm10.2-28.7v28.8h-3.8V96.4h3.8zm5 14.3c0-2.8.6-5.3 1.9-7.6 1.3-2.3 3-4 5.2-5.3 2.2-1.3 4.6-1.9 7.3-1.9 3.1 0 5.9.8 8.2 2.3 2.3 1.5 4 3.7 5.1 6.4h-4.5c-.8-1.7-2-3.1-3.5-4-1.5-.9-3.3-1.4-5.4-1.4-2 0-3.8.5-5.4 1.4-1.6.9-2.8 2.3-3.8 4-.9 1.7-1.4 3.7-1.4 6s.5 4.3 1.4 6c.9 1.7 2.2 3 3.8 4 1.6.9 3.4 1.4 5.4 1.4 2.1 0 3.9-.5 5.4-1.4 1.5-.9 2.7-2.3 3.5-4h4.5c-1.1 2.8-2.8 4.9-5.1 6.4s-5.1 2.2-8.2 2.2c-2.7 0-5.1-.6-7.3-1.9-2.2-1.3-3.9-3-5.2-5.2-1.3-2.1-1.9-4.6-1.9-7.4zm50.3 8h-12.5l-2.3 6.4h-4L667 96.5h4.3l10.4 28.6h-4l-2.3-6.4zm-1.1-3-5.2-14.5-5.2 14.5h10.4zm34.5 9.4H705l-15.1-22.9v22.9h-3.8V96.3h3.8l15.1 22.9V96.3h3.8v28.8zm23.4-6.4h-12.5l-2.3 6.4h-4l10.4-28.6h4.3l10.4 28.6h-4l-2.3-6.4zm-1.1-3-5.2-14.5-5.2 14.5h10.4z class=st0pathsvg
+div
+div class=offcanvas-close
+i class=ri-close-circle-linei
+div
+div
+div class=offcanvas-body
+div class=offcanvas-content-request
+div
+div
+div
+div
+div
+div
+div
+div
+div
+div
+nav class=la-menu
+div class=container
+div class=evaulli id=menu-item-22 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-22a href=httpsmigracion.gob.do aria-current=pageInicioali
+li id=menu-item-23 class=about-us__link menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23a href=#Sobre Nosotrosa
+ul class=sub-menu
+li id=menu-item-24 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-24a href=httpsmigracion.gob.doquienes-somos¿Quiénes Somosali
+li id=menu-item-27 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-27a href=httpsmigracion.gob.dohistoriaHistoriaali
+li id=menu-item-4040 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-4040a href=httpsmigracion.gob.dodespacho-del-directorDespacho del Director Generalali
+li id=menu-item-31 class=menu-item menu-item-type-taxonomy menu-item-object-archivos-ca menu-item-31a href=httpsmigracion.gob.dodocumentosmarco-legalMarco Legalali
+li id=menu-item-1576 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-1576a href=httpsmigracion.gob.docarta-compromisoCarta compromiso al ciudadanoali
+li id=menu-item-28 class=menu-item menu-item-type-taxonomy menu-item-object-archivos-ca menu-item-28a href=httpsmigracion.gob.dodocumentosorganigramaOrganigramaali
+li id=menu-item-32 class=menu-item menu-item-type-custom menu-item-object-custom menu-item-32a href=directorio-de-funcionariosDirectorio de funcionariosali
+ul
+li
+li id=menu-item-116 class=menu-item menu-item-type-taxonomy menu-item-object-servicios-ca menu-item-116a href=httpsmigracion.gob.doserviciosserviciosServiciosali
+li id=menu-item-34 class=transparency__link menu-item menu-item-type-custom menu-item-object-custom menu-item-34a target=_blank rel=noopener href=transparenciaTransparenciaali
+li id=menu-item-35 class=menu-item menu-item-type-taxonomy menu-item-object-category menu-item-35a href=httpsmigracion.gob.docategorynoticiasNoticiasali
+li id=menu-item-203 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-203a href=httpsmigracion.gob.doforoForoali
+li id=menu-item-37 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-37a href=httpsmigracion.gob.docontactoContactoali
+li id=menu-item-1194 class=venezuelan__link_sec menu-item menu-item-type-custom menu-item-object-custom menu-item-1194a target=_blank rel=noopener href=httpspnv.migracion.gob.doApartado Venezolanosali
+uldiv div
+nav
+header
+
+style
+	
+	#dropdown-menu__container {
+		position relative;
+	}
+	
+	.colorline__header {
+    	height 4px;
+    	background linear-gradient(90deg,#ff3341 0%,#0e38b1 51.87%,#ff3341 100%);
+    	position absolute;
+		width 100%;
+	}
+	
+	.row {
+        max-width 100% !important;
+		margin 0;
+
+    }
+
+	#escudo_img_header {
+		margin-left 0 !important;
+		margin-right 0 !important;
+		height 43px;
+		width 43px;
+	}
+
+    #header_logo {
+        margin-right 80px !important;
+    }
+
+    #main_header_container {
+        display flex !important;
+        justify-content space-between !important;
+    }
+
+    #flags_navbar_fixed {
+        margin-left 8px;
+    }
+
+    #navbar_search_bar {
+        width 12rem;
+		margin-left .5rem;
+    }
+
+    #menu_button_right {
+        margin-left 0;
+        margin-bottom 0;
+    }
+
+    #dropdown_logo_section {
+        display flex;
+        justify-content space-between;
+        align-items center;
+		
+		margin 0;
+    }
+
+	
+    .message {
+        position fixed;
+        right 0;
+        bottom 0;
+        z-index 99;
+        animation creciendo 1.0s alternate infinite ease-in;
+    }
+	
+	.message img {
+		width 270px;
+		
+	}
+	
+	  @keyframes creciendo {
+        0%   {transform scale(.9);}
+     100% {transform scale(1.0);}
+}
+	  .messagehover {
+      animation crescendo 1.0s alternate infinite ease-in;
+    }
+	
+Media Queries
+		@media screen and (max-width 1300px) {
+		    .message {
+		        bottom10%;
+		    }
+		    
+		    .message img{
+		        width 250px;
+		    }
+		}
+	
+	@media screen and (max-width 576px) {
+		   .message {
+        position fixed;
+        right 130px;
+        bottom5%;
+        width 3em;
+        margin-top -2.5em;
+        z-index 99;
+        animation creciendo 1.0s alternate infinite ease-in;
+    }
+	
+		.message img {
+	
+		width 200px;
+		
+	}
+   
+	}
+style
+div class=offcanvas-backdropdiv
+
+section class=slider
+div class=n2-section-smartslider fitvidsignore  data-ssid=6 tabindex=0 role=region aria-label=Sliderdiv id=n2-ss-6-align class=n2-ss-aligndiv class=n2-paddingdiv id=n2-ss-6 data-creator=Smart Slider 3 data-responsive=auto class=n2-ss-slider n2-ow n2-has-hover n2notransition  div class=n2-ss-slider-wrapper-inside
+div class=n2-ss-slider-1 n2_ss__touch_element n2-ow
+div class=n2-ss-slider-2 n2-ow
+div class=n2-ss-slider-3 n2-ow
+div class=n2-ss-slide-backgrounds n2-ow-alldiv class=n2-ss-slide-background data-public-id=1 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202404Bienvenidos-300-scaled-1.webp alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=2 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202202Carta-compromiso-espanol-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=3 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202201tu-opinion-300-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=4 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202201eticket-gratis-300-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=5 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202201preguntas-y-respuestas-300-1-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=6 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202201nuestra-institucion-300-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=7 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202201servicios-en-linea-300-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv class=n2-ss-slide-background data-public-id=8 data-mode=filldiv class=n2-ss-slide-background-image data-blur=0 data-opacity=100 data-x=50 data-y=50 data-alt data-titlepicture class=skip-lazy data-skip-lazy=1img src=migracion.gob.dowp-contentuploads202201Transparencia-300-scaled.jpg alt title loading=lazy class=skip-lazy data-skip-lazy=1picturedivdiv data-color=RGBA(255,255,255,0) style=background-color RGBA(255,255,255,0); class=n2-ss-slide-background-colordivdivdiv div class=n2-ss-slider-4 n2-ow
+svg xmlns=httpwww.w3.org2000svg viewBox=0 0 1200 400 data-related-device=desktopPortrait class=n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limitersvgdiv data-first=1 data-slide-duration=0 data-id=138 data-slide-public-id=1 data-title=portada-NUEVOS-SLIDES-PORTAL-INSTI---DGM class=n2-ss-slide n2-ow  n2-ss-slide-138div role=note class=n2-ss-slide--focus tabindex=-1portada-NUEVOS-SLIDES-PORTAL-INSTI---DGMdivdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-qCBkpH0AR2fm data-sstype=slide data-pm=defaultdivdivdivdiv data-slide-duration=0 data-id=191 data-slide-public-id=2 data-title=form-NUEVOS-SLIDES-PORTAL-INSTI---DGM class=n2-ss-slide n2-ow  n2-ss-slide-191div role=note class=n2-ss-slide--focus tabindex=-1form-NUEVOS-SLIDES-PORTAL-INSTI---DGMdivdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-9wAz0o8FEUNd data-sstype=slide data-pm=defaultdiv class=n2-ss-layer n2-ow n-uc-UBDKU6LH4ahF data-pm=default data-sstype=content data-hasbackground=0div class=n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-UBDKU6LH4ahF-innerdiv class=n2-ss-layer n2-ow n-uc-um91BptNK9Yq data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=6954 data-tabletportraitleft=3186 data-mobileportraitleft=1488 data-desktopportraittop=798 data-tabletportraittop=600 data-mobileportraittop=312 data-responsivesize=1 data-desktopportraitwidth=1956 data-tabletportraitwidth=1476 data-mobileportraitwidth=696 data-desktopportraitheight=708 data-tabletportraitheight=408 data-mobileportraitheight=288 data-desktopportraitalign=center data-tabletportraitalign=center data-mobileportraitalign=center data-desktopportraitvalign=middle data-tabletportraitvalign=middle data-mobileportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-style-6679a19c901d61fb802720533bbad114-heading  n2-ss-item-image-content n2-ss-item-content n2-ow-alla href=httpsmigracion.gob.docarta-compromiso-al-ciudadanoimg id=n2-ss-6item1 alt class=skip-lazy loading=lazy width=209 height=64 data-skip-lazy=1 src=migracion.gob.dowp-contentuploads202202ver-folleto.jpg adivdivdiv class=n2-ss-layer n2-ow n-uc-mX4W9PTBXJrE n2-ss-layer--auto data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=361 data-tabletportraitleft=360 data-mobileportraitleft=372 data-desktopportraittop=55 data-tabletportraittop=54 data-mobileportraittop=51 data-responsivesize=1 data-desktopportraitwidth=auto data-desktopportraitheight=auto data-desktopportraitalign=center data-desktopportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-ss-button-container n2-ss-item-content n2-ow n2-font-27a7c18b3c44282d9244c968cb383836-link  n2-ss-nowrap n2-ss-button-container--non-full-widtha class=n2-style-c1211307f86f7bfc4b76b5925245a80c-heading  n2-ow  href=httpsmigracion.gob.docarta-compromiso-al-ciudadanodivdivver folleto i class=ri-arrow-right-lineidivdivadivdivdivdivdivdivdivdiv data-slide-duration=0 data-id=181 data-slide-public-id=3 data-title=form-NUEVOS-SLIDES-PORTAL-INSTI---DGM class=n2-ss-slide n2-ow  n2-ss-slide-181div role=note class=n2-ss-slide--focus tabindex=-1form-NUEVOS-SLIDES-PORTAL-INSTI---DGMdivdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-BkQ5eZF9uS7f data-sstype=slide data-pm=defaultdiv class=n2-ss-layer n2-ow n-uc-nfsa3X0lz5nt data-pm=default data-sstype=content data-hasbackground=0div class=n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-nfsa3X0lz5nt-innerdiv class=n2-ss-layer n2-ow n-uc-CgXss2K5N2kn data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=6084 data-tabletportraitleft=3186 data-mobileportraitleft=1320 data-desktopportraittop=1062 data-tabletportraittop=600 data-mobileportraittop=324 data-responsivesize=1 data-desktopportraitwidth=2400 data-tabletportraitwidth=1476 data-mobileportraitwidth=792 data-desktopportraitheight=708 data-tabletportraitheight=408 data-mobileportraitheight=312 data-desktopportraitalign=center data-tabletportraitalign=center data-mobileportraitalign=center data-desktopportraitvalign=middle data-tabletportraitvalign=middle data-mobileportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-style-6679a19c901d61fb802720533bbad114-heading  n2-ss-item-image-content n2-ss-item-content n2-ow-alla target=_blank href=httpsforms.office.comrYbidrRnHHvimg id=n2-ss-6item3 alt class=skip-lazy loading=lazy width=238 height=64 data-skip-lazy=1 src=migracion.gob.dowp-contentuploads202201SLIDES-PORTAL-INSTI-DGM-EN-USO-15.jpg adivdivdiv class=n2-ss-layer n2-ow n-uc-MPLONGq1lcpY n2-ss-layer--auto data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=334 data-tabletportraitleft=344 data-mobileportraitleft=339 data-desktopportraittop=48 data-tabletportraittop=54 data-mobileportraittop=61 data-responsivesize=1 data-desktopportraitwidth=auto data-desktopportraitheight=auto data-desktopportraitalign=center data-desktopportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-ss-button-container n2-ss-item-content n2-ow n2-font-27a7c18b3c44282d9244c968cb383836-link  n2-ss-nowrap n2-ss-button-container--non-full-widtha class=n2-style-c1211307f86f7bfc4b76b5925245a80c-heading  n2-ow  href=httpsforms.office.comPagesResponsePage.aspxid=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jdxyCFUNjJCSFA5N1A3WUZZRDk1VFVSNjBVTDhXMS4udivdivllenar encuesta i class=ri-arrow-right-lineidivdivadivdivdivdivdivdivdivdiv data-slide-duration=0 data-id=187 data-slide-public-id=4 data-title=form-NUEVOS-SLIDES-PORTAL-INSTI---DGM data-haslink=1 data-href=httpseticket.migracion.gob.do tabindex=0 role=button data-target=_blank data-n2click=url data-force-pointer class=n2-ss-slide n2-ow  n2-ss-slide-187div role=note class=n2-ss-slide--focusform-NUEVOS-SLIDES-PORTAL-INSTI---DGMdivdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-fVIEPIacRoe4 data-sstype=slide data-pm=defaultdivdivdivdiv data-slide-duration=0 data-id=141 data-slide-public-id=5 data-title=4 class=n2-ss-slide n2-ow  n2-ss-slide-141div role=note class=n2-ss-slide--focus tabindex=-14divdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-oZSlu0DVerzC data-sstype=slide data-pm=defaultdiv class=n2-ss-layer n2-ow n-uc-kuU2UrpAJjxC data-pm=default data-sstype=content data-hasbackground=0div class=n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-kuU2UrpAJjxC-innerdiv class=n2-ss-layer n2-ow n-uc-9HIML38r5tKX data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=6492 data-tabletportraitleft=2964 data-mobileportraitleft=1446 data-desktopportraittop=1242 data-tabletportraittop=648 data-mobileportraittop=312 data-responsivesize=1 data-desktopportraitwidth=2088 data-tabletportraitwidth=1584 data-mobileportraitwidth=828 data-desktopportraitheight=1092 data-tabletportraitheight=432 data-mobileportraitheight=288 data-desktopportraitalign=center data-tabletportraitalign=center data-mobileportraitalign=center data-desktopportraitvalign=middle data-tabletportraitvalign=middle data-mobileportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-style-6679a19c901d61fb802720533bbad114-heading  n2-ss-item-image-content n2-ss-item-content n2-ow-alla href=httpsmigracion.gob.doforoimg id=n2-ss-6item5 alt class=skip-lazy loading=lazy width=871 height=265 data-skip-lazy=1 src=migracion.gob.dowp-contentuploads202201ir-al-sitio-300.jpg adivdivdiv class=n2-ss-layer n2-ow n-uc-NUp7NBmN8jYA n2-ss-layer--auto data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=327 data-tabletportraitleft=328 data-mobileportraitleft=328 data-desktopportraittop=70 data-tabletportraittop=67 data-mobileportraittop=72 data-responsivesize=1 data-desktopportraitwidth=124.594 data-tabletportraitwidth=auto data-mobileportraitwidth=auto data-desktopportraitheight=auto data-desktopportraitalign=center data-desktopportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-ss-button-container n2-ss-item-content n2-ow n2-font-27a7c18b3c44282d9244c968cb383836-link  n2-ss-nowrap n2-ss-button-container--non-full-widtha class=n2-style-c1211307f86f7bfc4b76b5925245a80c-heading  n2-ow  href=httpsmigracion.gob.doforodivdivir al sitio i class=ri-arrow-right-lineidivdivadivdivdivdivdivdivdivdiv data-slide-duration=0 data-id=142 data-slide-public-id=6 data-title=2 class=n2-ss-slide n2-ow  n2-ss-slide-142div role=note class=n2-ss-slide--focus tabindex=-12divdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-amUGYFcHTTtQ data-sstype=slide data-pm=defaultdiv class=n2-ss-layer n2-ow n-uc-NzZcvJ0aBxrp data-pm=default data-sstype=content data-hasbackground=0div class=n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-NzZcvJ0aBxrp-innerdiv class=n2-ss-layer n2-ow n-uc-eB1eefgW7cg8 n2-ss-layer--auto data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=333 data-tabletportraitleft=331 data-mobileportraitleft=331 data-desktopportraittop=61 data-tabletportraittop=71 data-mobileportraittop=75 data-responsivesize=1 data-desktopportraitwidth=auto data-desktopportraitheight=auto data-desktopportraitalign=center data-desktopportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-ss-button-container n2-ss-item-content n2-ow n2-font-27a7c18b3c44282d9244c968cb383836-link  n2-ss-nowrap n2-ss-button-container--non-full-widtha class=n2-style-c53ceb44d905da4f474e64dfe515f9cd-heading  n2-ow  href=httpsmigracion.gob.dohistoriadivdivir al sitio i class=ri-arrow-right-lineidivdivadivdivdivdivdiv class=n2-ss-layer n2-ow n-uc-kcoImM42rOFo data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=5892 data-tabletportraitleft=3216 data-mobileportraitleft=1446 data-desktopportraittop=1350 data-tabletportraittop=679 data-mobileportraittop=312 data-responsivesize=1 data-desktopportraitwidth=2088 data-tabletportraitwidth=1584 data-mobileportraitwidth=828 data-desktopportraitheight=1092 data-tabletportraitheight=432 data-mobileportraitheight=288 data-desktopportraitalign=center data-tabletportraitalign=center data-mobileportraitalign=center data-desktopportraitvalign=middle data-tabletportraitvalign=middle data-mobileportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-style-6679a19c901d61fb802720533bbad114-heading  n2-ss-item-image-content n2-ss-item-content n2-ow-alla href=httpsmigracion.gob.dohistoriaimg id=n2-ss-6item8 alt class=skip-lazy loading=lazy width=871 height=265 data-skip-lazy=1 src=migracion.gob.dowp-contentuploads202201ir-al-sitio-300.jpg adivdivdivdivdivdiv data-slide-duration=0 data-id=143 data-slide-public-id=7 data-title=3 class=n2-ss-slide n2-ow  n2-ss-slide-143div role=note class=n2-ss-slide--focus tabindex=-13divdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-7cPKUP2ky6SY data-sstype=slide data-pm=defaultdiv class=n2-ss-layer n2-ow n-uc-Tlz1TxkudaVp data-pm=default data-sstype=content data-hasbackground=0div class=n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-Tlz1TxkudaVp-innerdiv class=n2-ss-layer n2-ow n-uc-X4BZaYMJfjpK data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=5388 data-tabletportraitleft=2964 data-mobileportraitleft=1446 data-desktopportraittop=1230 data-tabletportraittop=648 data-mobileportraittop=312 data-responsivesize=1 data-desktopportraitwidth=2088 data-tabletportraitwidth=1584 data-mobileportraitwidth=828 data-desktopportraitheight=1092 data-tabletportraitheight=432 data-mobileportraitheight=288 data-desktopportraitalign=center data-tabletportraitalign=center data-mobileportraitalign=center data-desktopportraitvalign=middle data-tabletportraitvalign=middle data-mobileportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-style-6679a19c901d61fb802720533bbad114-heading  n2-ss-item-image-content n2-ss-item-content n2-ow-alla target=_blank href=httpspersonal.migracion.gob.doimg id=n2-ss-6item9 alt class=skip-lazy loading=lazy width=871 height=265 data-skip-lazy=1 src=migracion.gob.dowp-contentuploads202201ir-al-sitio-300.jpg adivdivdiv class=n2-ss-layer n2-ow n-uc-b2l8KHigLd94 n2-ss-layer--auto data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=320 data-tabletportraitleft=319 data-mobileportraitleft=316 data-desktopportraittop=66 data-tabletportraittop=65 data-mobileportraittop=67 data-responsivesize=1 data-desktopportraitwidth=auto data-desktopportraitheight=auto data-desktopportraitalign=center data-desktopportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-ss-button-container n2-ss-item-content n2-ow n2-font-27a7c18b3c44282d9244c968cb383836-link  n2-ss-nowrap n2-ss-button-container--non-full-widtha class=n2-style-c1211307f86f7bfc4b76b5925245a80c-heading  n2-ow  href=httpspersonal.migracion.gob.dodivdivir al sitio i class=ri-arrow-right-lineidivdivadivdivdivdivdivdivdivdiv data-slide-duration=0 data-id=144 data-slide-public-id=8 data-title=1 class=n2-ss-slide n2-ow  n2-ss-slide-144div role=note class=n2-ss-slide--focus tabindex=-11divdiv class=n2-ss-layers-container n2-ss-slide-limiter n2-owdiv class=n2-ss-layer n2-ow n-uc-PxM47DhQxKpl data-sstype=slide data-pm=defaultdiv class=n2-ss-layer n2-ow n-uc-u7fhkSQxkh6T data-pm=default data-sstype=content data-hasbackground=0div class=n2-ss-section-main-content n2-ss-layer-with-background n2-ss-layer-content n2-ow n-uc-u7fhkSQxkh6T-innerdiv class=n2-ss-layer n2-ow n-uc-BuooIaQvRjHq n2-ss-layer--auto data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=350 data-tabletportraitleft=348 data-mobileportraitleft=345 data-desktopportraittop=43 data-tabletportraittop=44 data-mobileportraittop=47 data-responsivesize=1 data-desktopportraitwidth=auto data-desktopportraitheight=auto data-desktopportraitalign=center data-desktopportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-ss-button-container n2-ss-item-content n2-ow n2-font-27a7c18b3c44282d9244c968cb383836-link  n2-ss-nowrap n2-ss-button-container--non-full-widtha class=n2-style-c1211307f86f7bfc4b76b5925245a80c-heading  n2-ow  href=httpsmigracion.gob.dotransparenciadivdivir al sitio i class=ri-arrow-right-lineidivdivadivdivdivdivdiv class=n2-ss-layer n2-ow n-uc-1ixULskRiV6u data-pm=absolute data-responsiveposition=1 data-desktopportraitleft=6204 data-tabletportraitleft=3408 data-mobileportraitleft=1446 data-desktopportraittop=1253 data-tabletportraittop=594 data-mobileportraittop=312 data-responsivesize=1 data-desktopportraitwidth=2088 data-tabletportraitwidth=1584 data-mobileportraitwidth=828 data-desktopportraitheight=1092 data-tabletportraitheight=432 data-mobileportraitheight=288 data-desktopportraitalign=center data-tabletportraitalign=center data-mobileportraitalign=center data-desktopportraitvalign=middle data-tabletportraitvalign=middle data-mobileportraitvalign=middle data-parentid data-desktopportraitparentalign=center data-desktopportraitparentvalign=middle data-sstype=layerdiv class=n2-style-6679a19c901d61fb802720533bbad114-heading  n2-ss-item-image-content n2-ss-item-content n2-ow-alla href=httpsmigracion.gob.dotransparenciaimg id=n2-ss-6item12 alt class=skip-lazy loading=lazy width=871 height=265 data-skip-lazy=1 src=migracion.gob.dowp-contentuploads202201ir-al-sitio-300.jpg adivdivdivdivdiv div
+div
+div
+div
+div class=n2-ss-slider-controls n2-ss-slider-controls-absolute-left-centerdiv style=--widget-offset15px; class=n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade data-hide-mobileportrait=1 id=n2-ss-6-arrow-previous role=button aria-label=previous arrow tabindex=0img width=32 height=32 class=skip-lazy data-skip-lazy=1 src=dataimagesvg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0yMS41OCAyMy41OGwtNy45NjItNy41ODMgNy44Ni03LjQ4NWMuMzItLjI2Mi41MjItLjY1LjUyMi0xLjA4M0MyMiA2LjY0IDIxLjMyOCA2IDIwLjUgNmMtLjQwMyAwLS43NjguMTUtMS4wMzguMzk4bC0uMDA0LS4wMDQtOSA4LjU3di4wMDJjLS4yODIuMjYtLjQ1OC42MjQtLjQ1OCAxLjAyOFYxNmMwIC40MDQuMTc2Ljc3LjQ2IDEuMDNoLS4wMDJsOSA4LjU3Yy4yNy4yNDcuNjM4LjQgMS4wNDIuNC44MyAwIDEuNS0uNjQgMS41LTEuNDMgMC0uMzg0LS4xNi0uNzMzLS40Mi0uOTl6IgogICAgICAgICAgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC44IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4KPC9zdmc+ alt=previous arrowdivdivdiv class=n2-ss-slider-controls n2-ss-slider-controls-absolute-right-centerdiv style=--widget-offset15px; class=n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade data-hide-mobileportrait=1 id=n2-ss-6-arrow-next role=button aria-label=next arrow tabindex=0img width=32 height=32 class=skip-lazy data-skip-lazy=1 src=dataimagesvg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0yMiAxNS45OTd2LS4wMDNjMC0uNDA0LS4xNzYtLjc2OC0uNDYtMS4wMjhoLjAwMmwtOS04LjU3Mi0uMDA0LjAwNEMxMi4yNjggNi4xNSAxMS45MDIgNiAxMS41IDZjLS44MyAwLTEuNS42NC0xLjUgMS40MyAwIC40MzIuMjAzLjgyLjUyMyAxLjA4Mmw3Ljg2IDcuNDg1LTcuOTYzIDcuNTgzYy0uMjYuMjU3LS40Mi42MDYtLjQyLjk5IDAgLjc5LjY3IDEuNDMgMS41IDEuNDMuNDA0IDAgLjc3LS4xNTMgMS4wNC0uNGw5LjAwMi04LjU3di0uMDAyYy4yODItLjI2LjQ1OC0uNjI0LjQ1OC0xLjAyOHYtLjAwM3oiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4= alt=next arrowdivdivdivdivss3-loaderss3-loaderdivdivdiv class=n2_cleardivdiv
+section
+div class=message
+a href=httpseticket.migracion.gob.do target=_blank
+img src=httpsmigracion.gob.dowp-contentuploads202110banner-nuevo-mano-azul.png alt=imagen del eticket
+a
+div
+
+section class=avisos
+div class=container
+div class=row no-gutters
+div class=col-lg-4
+div class=avi
+span class=ri-notification-line notices__iconspan
+h2 class=notices__textAvisosh2
+div class=descdiv
+div class=los-dotsdiv
+div
+div
+div class=col-lg-8
+div class=so
+div class=owl-carousel owl-theme los_avisos
+div class=lavisos style=background-image url('httpsmigracion.gob.dowp-contentuploads202107glasses-cheerful-home-indoor-young-250x167.jpg')
+a href=httpsmigracion.gob.doe-ticket-ticket-electronico-de-entrada-y-salida-de-la-republica-dominicana
+pAccede al Ticket electrónico de entrada y salida de Rep.Dom (E-TICKET) aquip
+a href=httpsmigracion.gob.doe-ticket-ticket-electronico-de-entrada-y-salida-de-la-republica-dominicana class=seemore title=Accede al Ticket electrónico de entrada y salida de Rep.Dom (E-TICKET) aquii class=ri-arrow-right-lineia
+a
+div
+div class=lavisos style=background-image url('httpsmigracion.gob.dowp-contentuploads202104vene1-250x141.png')
+a href=httpsmigracion.gob.dodgm-en-cumplimiento-de-la-resolucion-que-normaliza-dentro-de-la-categoria-de-no-residente-la-situacion-irregular-de-los-nacionales-venezolanos-en-territorio-dominicano
+pDGM en cumplimiento de la Resolución que Normaliza dentro de la Categoría de No Residente la situación irregular de los Nacionales Venezolanos en territorio Dominicanop
+a href=httpsmigracion.gob.dodgm-en-cumplimiento-de-la-resolucion-que-normaliza-dentro-de-la-categoria-de-no-residente-la-situacion-irregular-de-los-nacionales-venezolanos-en-territorio-dominicano class=seemore title=DGM en cumplimiento de la Resolución que Normaliza dentro de la Categoría de No Residente la situación irregular de los Nacionales Venezolanos en territorio Dominicanoi class=ri-arrow-right-lineia
+a
+div
+div class=lavisos style=background-image url('httpsmigracion.gob.dowp-contentuploads202102f-fotobannervene-250x108.png')
+a href=httpsmigracion.gob.dosobre-proceso-de-normalizacion-de-ciudadanos-venezolanos
+pPROCESO DE NORMALIZACIÓN DE CIUDADANOS VENEZOLANOSp
+a href=httpsmigracion.gob.dosobre-proceso-de-normalizacion-de-ciudadanos-venezolanos class=seemore title=PROCESO DE NORMALIZACIÓN DE CIUDADANOS VENEZOLANOSi class=ri-arrow-right-lineia
+a
+div
+div
+div
+div
+div
+div
+section
+
+section class=servicios
+div class=container
+h3 class=title img src=httpsmigracion.gob.dowp-contentthemesdgmimgiconsservices-icon.svg alt=Services Icon
+Serviciosh3
+div class=items
+div class=row
+div class=un col-lg-3 col-md-6 col-sm-6
+a href=httpsmigracion.gob.doserviciosresidencias
+div class=meh
+img src=httpsmigracion.gob.dowp-contentuploads202404Residence.webp alt=Services Image
+div class=stitle
+h2Residenciash2
+div class=stitle-icon
+i class=ri-arrow-right-linei
+div
+div
+div
+a
+div
+div class=un col-lg-3 col-md-6 col-sm-6
+a href=httpsmigracion.gob.doserviciospermisos
+div class=meh
+img src=httpsmigracion.gob.dowp-contentuploads202404Permits.webp alt=Services Image
+div class=stitle
+h2Permisosh2
+div class=stitle-icon
+i class=ri-arrow-right-linei
+div
+div
+div
+a
+div
+div class=un col-lg-3 col-md-6 col-sm-6
+a href=httpsmigracion.gob.doservicioscertificaciones
+div class=meh
+img src=httpsmigracion.gob.dowp-contentuploads202404Certifications.webp alt=Services Image
+div class=stitle
+h2Certificacionesh2
+div class=stitle-icon
+i class=ri-arrow-right-linei
+div
+div
+div
+a
+div
+div class=un col-lg-3 col-md-6 col-sm-6
+a href=httpsmigracion.gob.doserviciosrenovaciones
+div class=meh
+img src=httpsmigracion.gob.dowp-contentuploads202404Renovations.webp alt=Services Image
+div class=stitle
+h2Renovacionesh2
+div class=stitle-icon
+i class=ri-arrow-right-linei
+div
+div
+div
+a
+div
+div
+div
+div class=seemoreservices
+span class=t-seemoreAcceder a nuestro portal de serviciosspan
+a href=personal.migracion.gob.do target=_blank class=btn-smorespanClic aquí para solicitar en líneaspan
+div class=btn-smore-icon
+i class=ri-external-link-linei
+div
+a
+div
+div
+section
+
+section class=faq
+div class=container
+div class=row
+div class=row items01
+a href=httpsmigracion.gob.docategorynoticias aria-label=Galería
+div class=faq__item--container
+div class=faq__item--container-content
+div class=faq__item--container-icon
+div class=faq__item--icon-content
+svg id=ePFWhu8oLdB1 xmlns=httpwww.w3.org2000svg xmlnsxlink=httpwww.w3.org1999xlink viewBox=0 0 24 24 shape-rendering=geometricPrecision text-rendering=geometricPrecision fill=currentColor
+g id=ePFWhu8oLdB2_tr transform=translate(2.164063,21.184815) rotate(0)
+g transform=translate(-2.164061,-21.184815)
+g transform=translate(2.164063 3.075988)
+g
+g id=ePFWhu8oLdB5_ts transform=translate(10,10) scale(1,1)
+path d=M10,14c-2.2,0-4-1.8-4-4s1.8-4,4-4s4,1.8,4,4-1.8,4-4,4Z transform=translate(-10,-10) 
+g
+g
+g
+path d=M17.1,3.1c-.5,0-.8.4-.8.8s.4.8.8.8.8-.4.8-.8-.4-.8-.8-.8Z fill=none 
+path d=M19,2h-4L13,0h-6L5,2h-4c-.6,0-1,.4-1,1v14c0,.6.4,1,1,1h18c.6,0,1-.4,1-1v-14c0-.6-.4-1-1-1ZM10,16c-3.3,0-6-2.7-6-6s2.7-6,6-6s6,2.7,6,6-2.7,6-6,6ZM17.1,4.8c-.5,0-.8-.4-.8-.8s.4-.8.8-.8.8.4.8.8-.4.8-.8.8Z 
+g
+g
+g id=ePFWhu8oLdB9_to transform=translate(5.017815,4.373862)
+path d=M0,0h2.684417v.706425h-2.684417L0,0Z transform=translate(-1.342208,-0.353212) stroke-width=0 stroke-linecap=round 
+g
+g id=ePFWhu8oLdB10_tr transform=translate(19.232703,6.968857) rotate(2003.285343)
+g id=ePFWhu8oLdB10_ts transform=scale(0.021606,0.019156)
+polygon id=ePFWhu8oLdB10 points=50,14 57.46,34.98 77.58,25.42 68.02,45.54 89,53 68.02,60.46 77.58,80.58 57.46,71.02 50,92 42.54,71.02 22.42,80.58 31.98,60.46 11,53 31.98,45.54 22.42,25.42 42.54,34.98 50,14 transform=translate(-50,-53) opacity=0 stroke=#333 stroke-width=1 
+g
+g
+g
+g
+svg
+div
+div
+div
+spanGaleríaspan
+div
+a
+a href=httpsmigracion.gob.dowp-contentuploads201911PREGUNTAS-FRECUENTES-DGM.pdf aria-label=¿Preguntas
+div class=faq__item--container
+div class=faq__item--container-content
+div class=faq__item--container-icon
+div class=faq__item--icon-content
+svg id=eqLzkX7PeI11 xmlns=httpwww.w3.org2000svg xmlnsxlink=httpwww.w3.org1999xlink viewBox=0 0 24 24 shape-rendering=geometricPrecision text-rendering=geometricPrecision fill=currentColor
+g id=eqLzkX7PeI12_tr transform=translate(12,22) rotate(0)
+path d=M12,19c.8284,0,1.5.6716,1.5,1.5s-.6716,1.5-1.5,1.5-1.5-.6716-1.5-1.5.6716-1.5,1.5-1.5ZM12,2c3.3137,0,6,2.68629,6,6c0,2.1646-.7526,3.2907-2.6741,4.9231C13.3986,14.5604,13,15.2969,13,17h-2c0-2.474.787-3.6948,3.031-5.6011C15.5479,10.1102,16,9.43374,16,8c0-2.20914-1.7909-4-4-4s-4,1.79086-4,4v1h-2v-1c0-3.31371,2.68629-6,6-6Z transform=translate(-12,-22) 
+g
+svg
+div
+div
+div
+span¿Preguntasspan
+div
+a
+a href=httpsmigracion.gob.dotransparenciaindex.phpdocumentosestadisticas aria-label=Estadísticas
+div class=faq__item--container
+div class=faq__item--container-content
+div class=faq__item--container-icon
+div class=faq__item--icon-content
+svg id=eGsSvKU5Q811 xmlns=httpwww.w3.org2000svg xmlnsxlink=httpwww.w3.org1999xlink viewBox=0 0 24 24 shape-rendering=geometricPrecision text-rendering=geometricPrecision stroke=currentColor
+g transform=translate(.000001 0) class=eGsSvKU5Q811
+line x1=-2.675196 y1=2.82924 x2=3.040798 y2=-2.824164 transform=matrix(1.018196 0 0 1.033006 9.758207 11.946071) fill=none stroke=currentColor stroke-width=2 stroke-dasharray=8.04 
+line x1=-2.213172 y1=-2.12 x2=2.233172 y2=2.32 transform=translate(13.64116 11.148693) fill=none stroke=currentColor stroke-width=2 stroke-dasharray=6.29 
+line x1=-2.75 y1=2.81 x2=2.850106 y2=-2.87 transform=translate(17.224332 10.658693) fill=none stroke=currentColor stroke-width=2 stroke-dasharray=7.98 
+g
+g transform=translate(.039523 0.006641)
+path d=M0,0h2.060407v18.006641h-2.060407L0,0Z transform=translate(1.969796 3.769661) fill=currentColor stroke-width=0 
+path d=M0,0h18v2L0,2v-2Z transform=matrix(1 0 0 1.114126 3 19.54805) fill=currentColor stroke-width=0 
+g
+g transform=translate(.000001 0)
+line id=eGsSvKU5Q8112 x1=-2.675196 y1=2.82924 x2=3.040798 y2=-2.824164 transform=matrix(1.018196 0 0 1.033006 9.758207 11.946071) fill=none stroke=currentColor stroke-width=2 stroke-dashoffset=8.04 stroke-dasharray=8.04 
+line id=eGsSvKU5Q8113 x1=-2.213172 y1=-2.12 x2=2.233172 y2=2.32 transform=translate(13.64116 11.148693) fill=none stroke=currentColor stroke-width=2 stroke-dashoffset=6.29 stroke-dasharray=6.29 
+line id=eGsSvKU5Q8114 x1=-2.75 y1=2.81 x2=2.850106 y2=-2.87 transform=translate(17.224332 10.658693) fill=none stroke=currentColor stroke-width=2 stroke-dashoffset=7.98 stroke-dasharray=7.98 
+g
+svg
+div
+div
+div
+spanEstadísticasspan
+div
+a
+div
+div
+div class=btn-item
+a href=httpsmigracion.gob.dowp-contentuploads202212COMO-SOLICITAR-SEVICIO-ONLINE-DGM.pdf aria-label=¿Como solicitar servicios Online target=_blank
+div class=d-flex online
+span¿Como solicitar servicios Onlinespan
+div class=btn-item-online-icon
+i class=ri-external-link-linei
+div
+div
+a
+div
+div
+section
+div class=d-flex
+div class=consult_container
+div class=background
+img src=httpsmigracion.gob.dowp-contentthemesdgmimgbg-travel-plane.webp alt=Travel plane background
+div class=layer
+div class=container consult_content
+div class=consult_span
+spanPaíses autorizados a ingresar a RD sin visa ni tarjeta de turista; Sólo con tarjeta de turista; Con visa.span
+div
+div class=consult_link
+a class=consult_link--btn href=httpsservicios360.mirex.gob.docondiciones-para-extranjeros-ingresar aria-label=Países autorizados a ingresar a RD sin visa ni tarjeta de turista; Sólo con tarjeta de turista; Con visa. target=_blank
+span class=consult_link--spancontinuar i class=ri-external-link-lineispan
+a
+div
+div
+div
+div
+div
+div
+
+
+section class=noticias
+div class=container
+div class=elEncabezado
+div class=noticias-name
+i class=ri-newspaper-linei
+h3 class=n-title pNoticiasp spanMigraciónspanh3
+div
+a href=categorynoticias class=float-right vermasVer más noticiasa
+div
+div class=items
+div class=row
+div class=col-lg-6
+div class=primary
+a href=httpsmigracion.gob.doagente-pn-trato-de-agredir-a-personal-de-migracion title=AGENTE PN TRATO DE AGREDIR A PERSONAL DE MIGRACIÓN. target=_blank
+div class=photo
+div class=date
+span class=day16span
+span class=month04span
+div
+img src=httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-700x467.jpeg class=attachment-large size-large wp-post-image alt decoding=async fetchpriority=high srcset=httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-700x467.jpeg 700w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-250x167.jpeg 250w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-768x512.jpeg 768w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-1536x1024.jpeg 1536w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-2048x1366.jpeg 2048w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.47.37-AM-1-120x80.jpeg 120w sizes=(max-width 700px) 100vw, 700px  div
+div class=title
+h4AGENTE PN TRATO DE AGREDIR A PERSONAL DE MIGRACIÓN.h4
+div
+a
+div
+div
+div class=col-lg-6
+div class=row noti
+div class=col-6 meh
+a href=httpsmigracion.gob.dodireccion-de-migracion-agradece-a-dios-celebrar-85-anos title=DIRECCIÓN DE MIGRACIÓN AGRADECE A DIOS CELEBRAR 85 AÑOS. target=_blank
+div class=photo
+div class=date
+span class=day16span
+span class=month04span
+div
+img src=httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM.jpeg class=attachment-350x350 size-350x350 wp-post-image alt decoding=async srcset=httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM.jpeg 1600w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM-250x167.jpeg 250w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM-700x466.jpeg 700w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM-768x512.jpeg 768w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM-1536x1023.jpeg 1536w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-16-at-11.23.03-AM-120x80.jpeg 120w sizes=(max-width 350px) 100vw, 350px  div
+div class=title
+h4DIRECCIÓN DE MIGRACIÓN AGRADECE A DIOS CELEBRAR 85 AÑOS.h4
+div
+a
+div
+div class=col-6 meh
+a href=httpsmigracion.gob.dodgm-investiga-denuncia-de-supuesta-violacion-a-menor-en-bavaro title=DGM INVESTIGA DENUNCIA DE SUPUESTA VIOLACION  A MENOR EN BÁVARO. target=_blank
+div class=photo
+div class=date
+span class=day12span
+span class=month04span
+div
+img src=httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-700x700.png class=attachment-350x350 size-350x350 wp-post-image alt decoding=async srcset=httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-700x700.png 700w, httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-250x250.png 250w, httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-150x150.png 150w, httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-768x768.png 768w, httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-1536x1536.png 1536w, httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-2048x2048.png 2048w, httpsmigracion.gob.dowp-contentuploads20240330x30cm-logo-escudo-120x120.png 120w sizes=(max-width 350px) 100vw, 350px  div
+div class=title
+h4DGM INVESTIGA DENUNCIA DE SUPUESTA VIOLACION  A MENOR EN BÁVARO.h4
+div
+a
+div
+div class=col-6 meh
+a href=httpsmigracion.gob.dodireccion-general-de-migracion-sometera-a-la-justicia-al-conductor-de-bavaro-que-interrumpio-labor-de-inspectores-apreso-a-extranjeros-que-seran-deportados title=Dirección General de Migración someterá a la justicia al conductor de Bávaro que interrumpió labor de inspectores. Apreso a extranjeros que serán deportados target=_blank
+div class=photo
+div class=date
+span class=day8span
+span class=month04span
+div
+img src=httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM.jpeg class=attachment-350x350 size-350x350 wp-post-image alt decoding=async srcset=httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM.jpeg 1600w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM-250x167.jpeg 250w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM-700x466.jpeg 700w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM-768x512.jpeg 768w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM-1536x1023.jpeg 1536w, httpsmigracion.gob.dowp-contentuploads202404WhatsApp-Image-2024-04-08-at-12.26.23-PM-120x80.jpeg 120w sizes=(max-width 350px) 100vw, 350px  div
+div class=title
+h4Dirección General de Migración someterá a la justicia al conductor de Bávaro que interrumpió labor de inspectores. Apreso a extranjeros que serán deportadosh4
+div
+a
+div
+div class=col-6 meh
+a href=httpsmigracion.gob.dodireccion-de-migracion-felicita-a-los-periodistas-en-su-dia title=DIRECCIÓN DE MIGRACIÓN FELICITA A LOS PERIODISTAS EN SU DIA. target=_blank
+div class=photo
+div class=date
+span class=day5span
+span class=month04span
+div
+img src=httpsmigracion.gob.dowp-contentuploads202404DSC00544-scaled.jpg class=attachment-350x350 size-350x350 wp-post-image alt decoding=async srcset=httpsmigracion.gob.dowp-contentuploads202404DSC00544-scaled.jpg 2560w, httpsmigracion.gob.dowp-contentuploads202404DSC00544-250x167.jpg 250w, httpsmigracion.gob.dowp-contentuploads202404DSC00544-700x467.jpg 700w, httpsmigracion.gob.dowp-contentuploads202404DSC00544-768x512.jpg 768w, httpsmigracion.gob.dowp-contentuploads202404DSC00544-1536x1024.jpg 1536w, httpsmigracion.gob.dowp-contentuploads202404DSC00544-2048x1365.jpg 2048w, httpsmigracion.gob.dowp-contentuploads202404DSC00544-120x80.jpg 120w sizes=(max-width 350px) 100vw, 350px  div
+div class=title
+h4DIRECCIÓN DE MIGRACIÓN FELICITA A LOS PERIODISTAS EN SU DIA.h4
+div
+a
+div
+div
+div
+div
+div
+div
+div
+section
+div style=positionrelative; top 25px
+
+section class=linteres
+div class=container p_bottom style=overflowhidden
+div class=linteres-title
+h3 class=title
+i class=ri-global-linei
+Enlaces spande Interésspanh3
+div
+div class=items p_bottom
+div class=owl-carousel la-enlasa
+div class=icono_enlace
+a href=httpsdatos.gob.do target=_blank title=Datos Abiertos
+div class=imagen
+img src=httpsmigracion.gob.dowp-contentuploads201910datos-abiertos-1-1.svg alt=Datos Abiertos
+div
+a
+div
+div class=icono_enlace
+a href=httpssaip.gob.do target=_blank title=Portal Único de Solicitud de Acceso a la Información Pública (SAIP)
+div class=imagen
+img src=httpsmigracion.gob.dowp-contentuploads201907saip-logo.svg alt=Portal Único de Solicitud de Acceso a la Información Pública (SAIP)
+div
+a
+div
+div class=icono_enlace
+a href=httpsobservatorioserviciospublicos.gob.do target=_blank title=Observatorio Nacional de la Calidad de los Servicios Públicos
+div class=imagen
+img src=httpsmigracion.gob.dowp-contentuploads201907observatorio-map.svg alt=Observatorio Nacional de la Calidad de los Servicios Públicos
+div
+a
+div
+div class=icono_enlace
+a href=httpswww.gob.do target=_blank title=Gobierno dominicano
+div class=imagen
+img src=httpsmigracion.gob.dowp-contentuploads201907dominican-logo-gob.svg alt=Gobierno dominicano
+div
+a
+div
+div class=icono_enlace
+a href=https911.gob.do target=_blank title=9-1-1
+div class=imagen
+img src=httpsmigracion.gob.dowp-contentuploads201907sistema-911.svg alt=9-1-1
+div
+a
+div
+div class=icono_enlace
+a href=https311.gob.do target=_blank title=Sistema 3-1-1
+div class=imagen
+img src=httpsmigracion.gob.dowp-contentuploads201907Sistema-311.svg alt=Sistema 3-1-1
+div
+a
+div
+div
+div
+div
+section
+style
+	p_botton {
+		padding-bottom 15px !important;
+	}
+style
+div
+
+footer
+div class=footer_container
+div class=footer_information_bar
+div class=container footer_info_container
+pictureimg loading=lazy src=httpsmigracion.gob.dowp-contentthemesdgmimglogo_blanco.svg alt=Dirección General de Migraciónpicture
+div class=footer_grid
+div class=footer_element
+div class=footer_element_titleCONÓCENOSdiv
+p class=footer_element_textDirección General de Migraciónpdiv
+div class=footer_element
+div class=footer_element_titleCONTÁCTANOSdiv
+p class=footer_element_textTel. span class=footer__telf809-508-2555spanp
+a class=footer-mail-element href=cdn-cgilemail-protection#a7cec9c1c8e7cacec0d5c6c4cec8c989c0c8c589c3c8 rel=noopener noreferrer aria-label=Correo de migraciónp class=footer_element_textspan class=__cf_email__ data-cfemail=0f666169604f6266687d6e6c6660612168606d216b60[email&#160;protected]spana
+div
+div class=footer_element
+div class=footer_element_titleBÚSCANOSdiv
+a href=maps.app.goo.glxfBvotrLLTdBz88B9 target=_blank rel=noopener noreferrer aria-label=Ubicación de migraciónp class=footer_element_textAutopista 30 de Mayo, Esquina Héroes De Luperon, Santo Domingo República Dominicanapa
+div
+div class=footer_element
+div class=footer_element_titleINFÓRMATEdiv
+div class=footer_element_textulli id=menu-item-704 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-704a href=httpsmigracion.gob.doterminos-de-usoTérminos de Usoali
+li id=menu-item-703 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-703a rel=privacy-policy href=httpsmigracion.gob.dopoliticas-de-privacidadPolíticas de Privacidadali
+li id=menu-item-702 class=menu-item menu-item-type-post_type menu-item-object-page menu-item-702a href=httpsmigracion.gob.dopreguntas-frecuentesPreguntas Frecuentesali
+uldiv
+div
+div
+div
+div
+div class=footer_stamp_content--container
+div class=footer_stamp
+button class=container footer_stamp_button
+span class=footer_stamp--content-textCertificaciones obtenidasspan
+i class=ri-arrow-right-s-line footer_stamp--content-iconi
+button
+div class=container footer_stamp_container
+div class=footer_stamp_content_container
+div class=stamp-box
+div class=stamp
+a href=httpsnortic.ogtic.gob.doinstitucionesDGM target=_blank class=stamp stack-top title=Norma para el Desarrollo y Gestión de los Portales Web y la Transparencia de los Organismos del Estado Dominicano.
+a
+iframe src=httpsbe.nortic.ogtic.gob.dostampprocessesstamp99 height=100 width=100 frameborder=0 scrolling=no title=Certificacióniframe
+div
+div
+div class=stamp-box
+div class=stamp
+a href=httpsnortic.ogtic.gob.doinstitucionesDGM target=_blank class=stamp stack-top title=Norma sobre Publicación de Datos Abiertos del Gobierno Dominicano.
+a
+iframe src=httpsbe.nortic.ogtic.gob.dostampprocessesstamp103 height=100 width=100 frameborder=0 scrolling=no title=Certificacióniframe
+div
+div
+div class=stamp-box
+div class=stamp
+a href=httpsnortic.ogtic.gob.doinstitucionesDGM target=_blank class=stamp stack-top title=Norma para la Interoperabilidad entre los Organismos del Gobierno Dominicano.
+a
+iframe src=httpsbe.nortic.ogtic.gob.dostampprocessesstamp100 height=100 width=100 frameborder=0 scrolling=no title=Certificacióniframe
+div
+div
+div class=stamp-box
+div class=stamp
+a href=httpsnortic.ogtic.gob.doinstitucionesDGM target=_blank class=stamp stack-top title=Norma sobre la Prestación y Automatización de los Servicios Públicos del Estado Dominicano.
+a
+iframe src=httpsbe.nortic.ogtic.gob.dostampprocessesstamp101 height=100 width=100 frameborder=0 scrolling=no title=Certificacióniframe
+div
+div
+div class=stamp-box
+div class=stamp
+a href=httpsnortic.ogtic.gob.doinstitucionesDGM target=_blank class=stamp stack-top title=Norma sobre el Desarrollo y Gestión del Software en el Estado Dominicano.
+a
+iframe src=httpsbe.nortic.ogtic.gob.dostampprocessesstamp630 height=100 width=100 frameborder=0 scrolling=no title=Certificacióniframe
+div
+div
+div class=stamp-box
+div class=stamp
+a href=httpsnortic.ogtic.gob.doinstitucionesDGM target=_blank class=stamp stack-top title=Norma para la Gestión de las Redes Sociales en los Organismos Gubernamentales.
+a
+iframe src=httpsbe.nortic.ogtic.gob.dostampprocessesstamp102 height=100 width=100 frameborder=0 scrolling=no title=Certificacióniframe
+div
+div
+div
+div
+div
+div
+div class=footer_legal_bar
+div class=container footer_legal_bar_container
+p class=footer_copyright&copy; 2024 Todos los derechos reservados.p
+div class=footer_social_networks
+p class=footer_social_textSÍGUENOSp
+div class=footer_social_networks_icons
+a href=httpswww.facebook.commigracionrd0 target=_blank rel=noopener noreferrer aria-label=Facebook de migración
+i class=ri-facebook-filli
+a
+a href=httpswww.youtube.comchannelUCtxogyYXjRq9D7dw8k0aOng target=_blank rel=noopener noreferrer aria-label=YouTube de migración
+i class=ri-youtube-filli
+a
+a href=httpsx.comMigracionRDo target=_blank rel=noopener noreferrer aria-label=X de migración
+i class=ri-twitter-x-filli
+a
+a href=httpsinstagram.commigracionrdo target=_blank rel=noopener noreferrer aria-label=Instagram de migración
+i class=ri-instagram-filli
+a
+div
+div
+div
+div
+footer
+script data-cfasync=false src=cdn-cgiscripts5c5dd728cloudflare-staticemail-decode.min.jsscriptscript
+              (function(e){
+                  var el = document.createElement('script');
+                  el.setAttribute('data-account', 'sV2OUOXA6Z');
+                  el.setAttribute('src', 'httpscdn.userway.orgwidget.js');
+                  document.body.appendChild(el);
+                })();
+              script 
+noscript
+			iframe src=httpswww.googletagmanager.comns.htmlid=GTM-PSBCMCW height=0 width=0 style=displaynone;visibilityhiddeniframe
+		noscript
+
+script type=textjavascript id=kk-star-ratings-js-extra
+ ![CDATA[ 
+var kk_star_ratings = {actionkk-star-ratings,endpointhttpsmigracion.gob.dowp-adminadmin-ajax.php,nonce875e45be4a};
+ ]] 
+script
+script type=textjavascript src=httpsmigracion.gob.dowp-contentpluginskk-star-ratingssrccorepublicjskk-star-ratings.min.jsver=5.4.7 id=kk-star-ratings-jsscript
+
+script
+		(function(f,i,r,e,s,h,l){i['GoogleAnalyticsObject']=s;f[s]=f[s]function(){
+			(f[s].q=f[s].q[]).push(arguments)},f[s].l=1new Date();h=i.createElement(r),
+			l=i.getElementsByTagName(r)[0];h.async=1;h.src=e;l.parentNode.insertBefore(h,l)
+		})(window,document,'script','www.google-analytics.comanalytics.js','ga');
+		ga('create', 'UA-XXXXXXXX-XX', 'yourdomain.com');
+		ga('send', 'pageview');
+	script
+script type=textjavascript src=httpsmigracion.gob.dowp-contentthemesdgmjsmain.js asyncscript
+script
+    var footer_span_telf = document.querySelector('.footer__telf');
+    
+     footer_span_telf.addEventListener('click', function() {
+         footer_span_telf.setAttribute('data-tooltip', '¡Número de teléfono copiado 😊!');
+            
+            footer_span_telf.classList.add('show');
+
+           
+                    setTimeout(function() {
+                footer_span_telf.classList.remove('show');
+                
+            }, 3000);
+        });
+script
+script(function(d){var s = d.createElement(script);s.setAttribute(data-account, sV2OUOXA6Z);s.setAttribute(src, httpsaccessibilityserver.orgwidget.js);(d.body  d.head).appendChild(s);})(document)scriptnoscriptPlease ensure Javascript is enabled for purposes of a href=httpsaccessibilityserver.orgwebsite accessibilityanoscriptscript(function(){if (!document.body) return;var js = window['__CF$cv$params']={r'8768699aa9ad138f',t'MTcxMzQ4MjcxMC4yMTIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='cdn-cgichallenge-platformscriptsjsdmain.js',document.getElementsByTagName('head')[0].appendChild(_cpo);;var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument  _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange  function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();scriptscript defer src=httpsstatic.cloudflareinsights.combeacon.min.jsv55bfa2fee65d44688e90c00735ed189a1713218998793 integrity=sha512-FIKRFRxgD20moAo96hkZQy5QojZDAbyx0mQ17jEGHCJcvi0G2HXLtofwD7Q3NmivvP9at5EVgbRqOaOQb+Rg== data-cf-beacon='{rayId8768699aa9ad138f,version2024.3.0,token8ed5cfd9ac5a45b6be097cabfc794f1d}' crossorigin=anonymousscript
+body
+html
